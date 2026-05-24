@@ -1,0 +1,867 @@
+{
+  "image": "smartdoc_00503.jpg",
+  "domain": "smartdoc",
+  "width": 1648,
+  "height": 2464,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "1.DEFINING UNCERTAINTY",
+      "bbox": [
+        [
+          16,
+          62
+        ],
+        [
+          504,
+          66
+        ],
+        [
+          504,
+          103
+        ],
+        [
+          16,
+          99
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Research conducted under the title of interpersonal communication initially focused on persuasion,",
+      "bbox": [
+        [
+          76,
+          170
+        ],
+        [
+          1498,
+          183
+        ],
+        [
+          1498,
+          221
+        ],
+        [
+          76,
+          208
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "social influence, and small group processes. Theories explored the role of learning, dissonance, bal-",
+      "bbox": [
+        [
+          23,
+          220
+        ],
+        [
+          1497,
+          226
+        ],
+        [
+          1497,
+          266
+        ],
+        [
+          22,
+          260
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ance, social judgment and reactance (Berger,2005).Kurt Lewin,a forefather of social psychology,",
+      "bbox": [
+        [
+          28,
+          265
+        ],
+        [
+          1494,
+          273
+        ],
+        [
+          1493,
+          316
+        ],
+        [
+          27,
+          308
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "played a considerable role in influencing interpersonal research pioneers such as Festinger, Heider,",
+      "bbox": [
+        [
+          32,
+          316
+        ],
+        [
+          1489,
+          318
+        ],
+        [
+          1489,
+          356
+        ],
+        [
+          32,
+          355
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Kelley, and Hovland.By the 1970s, research interests began to shift into the realm of social interaction,",
+      "bbox": [
+        [
+          35,
+          363
+        ],
+        [
+          1485,
+          364
+        ],
+        [
+          1485,
+          401
+        ],
+        [
+          35,
+          399
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "relational development, and relational control. This was influenced by the research of such scholars",
+      "bbox": [
+        [
+          39,
+          411
+        ],
+        [
+          1481,
+          409
+        ],
+        [
+          1481,
+          441
+        ],
+        [
+          39,
+          443
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "as Knapp, Mehrabian, Altman Taylor Duck, Kelley and Thibaut.During the later part of the decade",
+      "bbox": [
+        [
+          42,
+          454
+        ],
+        [
+          1479,
+          449
+        ],
+        [
+          1479,
+          488
+        ],
+        [
+          42,
+          493
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and into the 1980s, the cognitive approaches of Hewes, Planalp,Roloff, and Berger became popular",
+      "bbox": [
+        [
+          47,
+          499
+        ],
+        [
+          1474,
+          496
+        ],
+        [
+          1474,
+          533
+        ],
+        [
+          47,
+          536
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "along with research into behavioral and communicative adaptation by Giles, Burgoon, and Patterson.",
+      "bbox": [
+        [
+          50,
+          544
+        ],
+        [
+          1468,
+          536
+        ],
+        [
+          1468,
+          574
+        ],
+        [
+          50,
+          582
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Berger (2005) states: \"these early theoretical forays helped shape the interpersonal comm research",
+      "bbox": [
+        [
+          55,
+          590
+        ],
+        [
+          1468,
+          579
+        ],
+        [
+          1468,
+          614
+        ],
+        [
+          55,
+          626
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "agenda during the past two decades(p.416). Today, interpersonal communication tends to focus",
+      "bbox": [
+        [
+          58,
+          635
+        ],
+        [
+          1463,
+          619
+        ],
+        [
+          1463,
+          656
+        ],
+        [
+          58,
+          672
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "on dyadic communication, communication involving face-to-face interaction, or communication as",
+      "bbox": [
+        [
+          63,
+          680
+        ],
+        [
+          1459,
+          664
+        ],
+        [
+          1460,
+          696
+        ],
+        [
+          63,
+          712
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "a function of developing relationships. Research into interpersonal communication theory typically.",
+      "bbox": [
+        [
+          64,
+          719
+        ],
+        [
+          1455,
+          704
+        ],
+        [
+          1455,
+          741
+        ],
+        [
+          65,
+          756
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "focuses on the development, maintenance, and dissolution of relationships. It has been recognized",
+      "bbox": [
+        [
+          67,
+          762
+        ],
+        [
+          1453,
+          744
+        ],
+        [
+          1453,
+          779
+        ],
+        [
+          68,
+          797
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "that interpersonal communication is motivated by uncertainty reduction (Berger & Calabrese, 1975).",
+      "bbox": [
+        [
+          72,
+          804
+        ],
+        [
+          1445,
+          784
+        ],
+        [
+          1445,
+          821
+        ],
+        [
+          73,
+          841
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Since its introduction in the 1970s, uncertainty has been recognized as a major field of study that has",
+      "bbox": [
+        [
+          77,
+          846
+        ],
+        [
+          1443,
+          826
+        ],
+        [
+          1444,
+          858
+        ],
+        [
+          78,
+          878
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "contributed to the development of the field of communication as a whole. This chapter strives to focus",
+      "bbox": [
+        [
+          80,
+          886
+        ],
+        [
+          1442,
+          863
+        ],
+        [
+          1442,
+          900
+        ],
+        [
+          81,
+          923
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "on those theorists who pioneered the research of uncertainty reduction in communication. Their work",
+      "bbox": [
+        [
+          83,
+          929
+        ],
+        [
+          1435,
+          903
+        ],
+        [
+          1436,
+          935
+        ],
+        [
+          84,
+          961
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "is crucial to the development of the field of interpersonal communication, and is central in our",
+      "bbox": [
+        [
+          87,
+          969
+        ],
+        [
+          1434,
+          941
+        ],
+        [
+          1434,
+          974
+        ],
+        [
+          87,
+          1001
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "understanding of interpersonal processes.",
+      "bbox": [
+        [
+          90,
+          1011
+        ],
+        [
+          698,
+          998
+        ],
+        [
+          699,
+          1028
+        ],
+        [
+          91,
+          1041
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Defining Uncertainty",
+      "bbox": [
+        [
+          164,
+          1110
+        ],
+        [
+          611,
+          1098
+        ],
+        [
+          612,
+          1140
+        ],
+        [
+          165,
+          1152
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1",
+      "bbox": [
+        [
+          101,
+          1115
+        ],
+        [
+          179,
+          1115
+        ],
+        [
+          179,
+          1149
+        ],
+        [
+          101,
+          1149
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Since uncertainty has been identified as an important construct, necessary to the study of commu-",
+      "bbox": [
+        [
+          106,
+          1191
+        ],
+        [
+          1408,
+          1155
+        ],
+        [
+          1409,
+          1187
+        ],
+        [
+          107,
+          1223
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "nication, it would be beneficial to know when the concept originated, and how it has been defined",
+      "bbox": [
+        [
+          106,
+          1226
+        ],
+        [
+          1412,
+          1187
+        ],
+        [
+          1413,
+          1224
+        ],
+        [
+          107,
+          1263
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and studied. One way to consider uncertainty is through the theoretical framework of information",
+      "bbox": [
+        [
+          111,
+          1263
+        ],
+        [
+          1409,
+          1224
+        ],
+        [
+          1410,
+          1259
+        ],
+        [
+          112,
+          1298
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "theory. Shannon and Weaver (1949) proposed that uncertainty existed in a given situation when there",
+      "bbox": [
+        [
+          112,
+          1300
+        ],
+        [
+          1403,
+          1259
+        ],
+        [
+          1404,
+          1296
+        ],
+        [
+          113,
+          1337
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "was a high amount of possible alternatives and the probability of their event was relatively equal.",
+      "bbox": [
+        [
+          117,
+          1335
+        ],
+        [
+          1398,
+          1294
+        ],
+        [
+          1399,
+          1331
+        ],
+        [
+          118,
+          1372
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Shannon and Weaver related this view of uncertainty to the transmission of messages, but their work",
+      "bbox": [
+        [
+          120,
+          1372
+        ],
+        [
+          1398,
+          1328
+        ],
+        [
+          1399,
+          1365
+        ],
+        [
+          122,
+          1409
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "also contributed to the development of URT.Berger and Calabrese (1975) adopted concepts from the",
+      "bbox": [
+        [
+          123,
+          1407
+        ],
+        [
+          1394,
+          1362
+        ],
+        [
+          1396,
+          1398
+        ],
+        [
+          125,
+          1444
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "information theorists as well as Heider (1958) research in attribution. Berger and Calabrese (1975)",
+      "bbox": [
+        [
+          125,
+          1443
+        ],
+        [
+          1393,
+          1397
+        ],
+        [
+          1394,
+          1434
+        ],
+        [
+          126,
+          1479
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "expanded the concept of uncertainty to fit interpersonal communication by defining uncertainty as",
+      "bbox": [
+        [
+          127,
+          1476
+        ],
+        [
+          1391,
+          1427
+        ],
+        [
+          1393,
+          1469
+        ],
+        [
+          128,
+          1518
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "the \"number of alternative ways in which each interactant might behave\"(p. 100).The greater the",
+      "bbox": [
+        [
+          130,
+          1508
+        ],
+        [
+          1386,
+          1461
+        ],
+        [
+          1388,
+          1503
+        ],
+        [
+          131,
+          1550
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "level of uncertainty that exists in a situation, the smaller the chance individuals will be able to pre-",
+      "bbox": [
+        [
+          131,
+          1542
+        ],
+        [
+          1383,
+          1495
+        ],
+        [
+          1385,
+          1536
+        ],
+        [
+          133,
+          1584
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "dict behaviors and occurrences.During interactions individuals are not only faced with problems of",
+      "bbox": [
+        [
+          138,
+          1579
+        ],
+        [
+          1383,
+          1528
+        ],
+        [
+          1385,
+          1565
+        ],
+        [
+          139,
+          1616
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "predicting present and past behaviors, but also explaining why partners behave or believe in the way",
+      "bbox": [
+        [
+          138,
+          1611
+        ],
+        [
+          1378,
+          1557
+        ],
+        [
+          1380,
+          1600
+        ],
+        [
+          140,
+          1654
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "that they do.Berger and Bradac's (1982) definition of uncertainty highlighted the complexity of this",
+      "bbox": [
+        [
+          141,
+          1645
+        ],
+        [
+          1376,
+          1591
+        ],
+        [
+          1378,
+          1632
+        ],
+        [
+          143,
+          1687
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "that a stranger can believe or potentially say\" Uncertainty plays a significant role when examining",
+      "bbox": [
+        [
+          144,
+          1709
+        ],
+        [
+          1372,
+          1655
+        ],
+        [
+          1373,
+          1697
+        ],
+        [
+          146,
+          1751
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and predictability can deaden a relationship",
+      "bbox": [
+        [
+          176,
+          2033
+        ],
+        [
+          699,
+          1997
+        ],
+        [
+          701,
+          2027
+        ],
+        [
+          178,
+          2064
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

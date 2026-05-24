@@ -1,0 +1,977 @@
+{
+  "image": "smartdoc_03325.jpg",
+  "domain": "smartdoc",
+  "width": 2296,
+  "height": 3328,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "1.EARLYINFLUENCES",
+      "bbox": [
+        [
+          358,
+          324
+        ],
+        [
+          799,
+          352
+        ],
+        [
+          796,
+          393
+        ],
+        [
+          356,
+          365
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Therefore uncertainty is a concept that plays a significant role in interpersonal communication.",
+      "bbox": [
+        [
+          417,
+          435
+        ],
+        [
+          1962,
+          503
+        ],
+        [
+          1959,
+          562
+        ],
+        [
+          414,
+          493
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The following theorists explore how communication can be a vehicle individuals utilize to reduce",
+      "bbox": [
+        [
+          352,
+          482
+        ],
+        [
+          1969,
+          553
+        ],
+        [
+          1966,
+          610
+        ],
+        [
+          349,
+          539
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "uncertainly.",
+      "bbox": [
+        [
+          354,
+          534
+        ],
+        [
+          562,
+          549
+        ],
+        [
+          559,
+          595
+        ],
+        [
+          351,
+          580
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Early Influences",
+      "bbox": [
+        [
+          437,
+          669
+        ],
+        [
+          873,
+          692
+        ],
+        [
+          870,
+          748
+        ],
+        [
+          434,
+          725
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The following theorists significantly contributed to the examination of uncertainty in communication.",
+      "bbox": [
+        [
+          356,
+          766
+        ],
+        [
+          1964,
+          817
+        ],
+        [
+          1962,
+          874
+        ],
+        [
+          354,
+          823
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The influence of their work can be seen reflected in the assumptions of Berger and Calabrese (1975).",
+      "bbox": [
+        [
+          356,
+          816
+        ],
+        [
+          1964,
+          865
+        ],
+        [
+          1962,
+          921
+        ],
+        [
+          354,
+          873
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1.1Leon Festinger (1919-1989)",
+      "bbox": [
+        [
+          362,
+          938
+        ],
+        [
+          1049,
+          960
+        ],
+        [
+          1047,
+          1012
+        ],
+        [
+          360,
+          990
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Leon Festinger studied psychology at the University of Iowa under the direction of Kurt Lewin. Lewin,",
+      "bbox": [
+        [
+          357,
+          1020
+        ],
+        [
+          1964,
+          1056
+        ],
+        [
+          1963,
+          1105
+        ],
+        [
+          356,
+          1070
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "one of the founders of social psychology and a pioneer in the research of group dynamics, had a sub-",
+      "bbox": [
+        [
+          359,
+          1074
+        ],
+        [
+          1964,
+          1103
+        ],
+        [
+          1963,
+          1151
+        ],
+        [
+          358,
+          1122
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "stantial influence on the development of interpersonal communication. After graduation, initially",
+      "bbox": [
+        [
+          359,
+          1124
+        ],
+        [
+          1957,
+          1153
+        ],
+        [
+          1956,
+          1196
+        ],
+        [
+          358,
+          1168
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "worked at the University of Rochester, but in 1945 he followed Lewin to Massachusetts Insti-",
+      "bbox": [
+        [
+          361,
+          1176
+        ],
+        [
+          1957,
+          1198
+        ],
+        [
+          1956,
+          1240
+        ],
+        [
+          361,
+          1217
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tute of Technology and the Research Center for Group Dynamics. After Lewin death, Festinger",
+      "bbox": [
+        [
+          361,
+          1226
+        ],
+        [
+          1964,
+          1246
+        ],
+        [
+          1963,
+          1287
+        ],
+        [
+          361,
+          1267
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "worked at the University of Michigan, Stanford University, and the New School for Social Research",
+      "bbox": [
+        [
+          363,
+          1274
+        ],
+        [
+          1964,
+          1291
+        ],
+        [
+          1963,
+          1335
+        ],
+        [
+          363,
+          1317
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(Samelson, 2o00). Much of Festinger's research followed his mentor Lewin and further developed",
+      "bbox": [
+        [
+          363,
+          1324
+        ],
+        [
+          1966,
+          1337
+        ],
+        [
+          1965,
+          1380
+        ],
+        [
+          363,
+          1367
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Lewin's theories. Several of Festinger theories were highly influential on the emerging field of in-",
+      "bbox": [
+        [
+          361,
+          1374
+        ],
+        [
+          1961,
+          1385
+        ],
+        [
+          1961,
+          1428
+        ],
+        [
+          361,
+          1417
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "terpersonal communication and on the development of URT. Festinger is best known for the theories",
+      "bbox": [
+        [
+          365,
+          1423
+        ],
+        [
+          1961,
+          1432
+        ],
+        [
+          1961,
+          1473
+        ],
+        [
+          365,
+          1465
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "of Cognitive Dissonance and Social Comparison. Cognitive Dissonance theory (CDT) attempted to",
+      "bbox": [
+        [
+          363,
+          1473
+        ],
+        [
+          1963,
+          1478
+        ],
+        [
+          1963,
+          1521
+        ],
+        [
+          363,
+          1517
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "explain how an imbalance among cognitions might affect an individual. Lewin foreshadowed CDT",
+      "bbox": [
+        [
+          363,
+          1523
+        ],
+        [
+          1966,
+          1525
+        ],
+        [
+          1965,
+          1569
+        ],
+        [
+          363,
+          1566
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "in his observations regarding attitude change in small groups (Festinger, 1982). CDT allows for three",
+      "bbox": [
+        [
+          363,
+          1573
+        ],
+        [
+          1965,
+          1571
+        ],
+        [
+          1966,
+          1614
+        ],
+        [
+          363,
+          1616
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "relationships to occur among cognitions: a consonant relationship, in which cognitions are in equi-.",
+      "bbox": [
+        [
+          363,
+          1625
+        ],
+        [
+          1961,
+          1621
+        ],
+        [
+          1961,
+          1662
+        ],
+        [
+          363,
+          1666
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "librium with each other; a dissonant relationship, in which cognitions are in competition with each",
+      "bbox": [
+        [
+          367,
+          1673
+        ],
+        [
+          1963,
+          1666
+        ],
+        [
+          1963,
+          1707
+        ],
+        [
+          368,
+          1714
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "other; and an irrelevant relationship, in which the cognitions in question have no effect on one another",
+      "bbox": [
+        [
+          367,
+          1725
+        ],
+        [
+          1965,
+          1716
+        ],
+        [
+          1966,
+          1753
+        ],
+        [
+          368,
+          1762
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(West & Turner, 2oo0). Cognitive Dissonance, like uncertainty, has an element of arousal and dis-.",
+      "bbox": [
+        [
+          365,
+          1775
+        ],
+        [
+          1965,
+          1759
+        ],
+        [
+          1966,
+          1800
+        ],
+        [
+          366,
+          1816
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "comfort that individuals seek to reduce. Social Comparison theory postulates that individuals look to.",
+      "bbox": [
+        [
+          363,
+          1822
+        ],
+        [
+          1965,
+          1805
+        ],
+        [
+          1966,
+          1846
+        ],
+        [
+          363,
+          1863
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "feedback from others to evaluate their performance and abilities. To evaluate the self, the individual",
+      "bbox": [
+        [
+          363,
+          1872
+        ],
+        [
+          1967,
+          1852
+        ],
+        [
+          1968,
+          1894
+        ],
+        [
+          363,
+          1913
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "usually seeks the opinions of others who are similar to the self. This need for social comparison can",
+      "bbox": [
+        [
+          363,
+          1922
+        ],
+        [
+          1969,
+          1898
+        ],
+        [
+          1970,
+          1941
+        ],
+        [
+          364,
+          1965
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "result in conformity pressures (Trenholm & Jensen, 2004). Berger and Calabrese (1975) related so-",
+      "bbox": [
+        [
+          363,
+          1974
+        ],
+        [
+          1965,
+          1945
+        ],
+        [
+          1966,
+          1989
+        ],
+        [
+          364,
+          2017
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "cial comparison to URT by stating that \"Festinger has suggested that persons seek out similar others",
+      "bbox": [
+        [
+          363,
+          2024
+        ],
+        [
+          1972,
+          1993
+        ],
+        [
+          1972,
+          2036
+        ],
+        [
+          364,
+          2067
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "who are proximate when they experience a high level of uncertainty regarding the appropriateness of",
+      "bbox": [
+        [
+          363,
+          2072
+        ],
+        [
+          1974,
+          2039
+        ],
+        [
+          1975,
+          2084
+        ],
+        [
+          364,
+          2117
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "their behavior and/or opinions in a particular situation' (p. 107). Festinger received the Distinguished",
+      "bbox": [
+        [
+          363,
+          2124
+        ],
+        [
+          1971,
+          2086
+        ],
+        [
+          1972,
+          2130
+        ],
+        [
+          364,
+          2167
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Scientist award of the American Psychological Association and the Distinguished Senior Scientist",
+      "bbox": [
+        [
+          363,
+          2173
+        ],
+        [
+          1971,
+          2134
+        ],
+        [
+          1972,
+          2177
+        ],
+        [
+          364,
+          2217
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Award from the Society of Experimental Social Psychology. Festinger's legacy is significant, and",
+      "bbox": [
+        [
+          363,
+          2223
+        ],
+        [
+          1973,
+          2181
+        ],
+        [
+          1975,
+          2225
+        ],
+        [
+          364,
+          2267
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "his theoretical influence can still be recognized in contemporary social science research. Aronson (in",
+      "bbox": [
+        [
+          358,
+          2271
+        ],
+        [
+          1976,
+          2227
+        ],
+        [
+          1977,
+          2277
+        ],
+        [
+          360,
+          2321
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Festinger, 1980) stated, \"It was in this era that Leon Festinger invented and developed his theory of",
+      "bbox": [
+        [
+          358,
+          2323
+        ],
+        [
+          1980,
+          2272
+        ],
+        [
+          1981,
+          2322
+        ],
+        [
+          360,
+          2373
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "cognitive dissonance, and in my opinion, social psychology has not been the same since\" (p. 3).",
+      "bbox": [
+        [
+          360,
+          2375
+        ],
+        [
+          1903,
+          2322
+        ],
+        [
+          1905,
+          2372
+        ],
+        [
+          362,
+          2425
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1.2Fritz Heider (1896-1988)",
+      "bbox": [
+        [
+          360,
+          2497
+        ],
+        [
+          1003,
+          2465
+        ],
+        [
+          1005,
+          2515
+        ],
+        [
+          363,
+          2547
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Fritz Heider earned his doctorate in philosophy from the University of Graz. During his time in",
+      "bbox": [
+        [
+          358,
+          2573
+        ],
+        [
+          1984,
+          2506
+        ],
+        [
+          1986,
+          2562
+        ],
+        [
+          360,
+          2629
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Europe, Heider worked with many renowned psychologists such as Wolfgang Kohler, Max Wertheimer,",
+      "bbox": [
+        [
+          358,
+          2625
+        ],
+        [
+          1981,
+          2554
+        ],
+        [
+          1984,
+          2610
+        ],
+        [
+          360,
+          2681
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and Kurt Lewin. Heider, like Festinger, recognized Lewin as a substantial impact on his life: \"I want",
+      "bbox": [
+        [
+          356,
+          2677
+        ],
+        [
+          1986,
+          2601
+        ],
+        [
+          1988,
+          2658
+        ],
+        [
+          358,
+          2733
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "to pay tribute to Lewin stimulating influence, which has affected much of my thinking and which is",
+      "bbox": [
+        [
+          353,
+          2729
+        ],
+        [
+          1985,
+          2647
+        ],
+        [
+          1988,
+          2705
+        ],
+        [
+          356,
+          2787
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "still strong even in this book, although it does not derive directly from his work\" (Heider, 1958, p.",
+      "bbox": [
+        [
+          356,
+          2776
+        ],
+        [
+          1983,
+          2699
+        ],
+        [
+          1986,
+          2759
+        ],
+        [
+          358,
+          2837
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "vii. In 1929, Heider moved to the United States to work at Smith College and later the University of",
+      "bbox": [
+        [
+          356,
+          2831
+        ],
+        [
+          1990,
+          2746
+        ],
+        [
+          1993,
+          2803
+        ],
+        [
+          359,
+          2887
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Kansas where he worked for the remainder of his life (Ash, 2000).",
+      "bbox": [
+        [
+          360,
+          2891
+        ],
+        [
+          1448,
+          2825
+        ],
+        [
+          1451,
+          2870
+        ],
+        [
+          363,
+          2937
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+TEST A
+
+
+
+FT
+
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.0987 (9.87%)
+Global WER             : 0.8720 (87.20%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.1190
+Mean WER               : 0.8720
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.8812
+Exact Match Accuracy   : 0.1280
+
+--- CHARACTER STATS ---
+Substitutions          : 10497
+Deletions              : 86802
+Insertions             : 1622
+
+--- WORD STATS ---
+Substitutions          : 5143
+Deletions              : 55
+Insertions             : 0
+--- BEST / WORST ---
+Best CER file          : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_line_018.jpg (0.0000)
+Worst CER file         : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_line_022.jpg (1.0000)
+
+
+
+BASE
+
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.0667 (6.67%)
+Global WER             : 0.7148 (71.48%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.0780
+Mean WER               : 0.7148
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.9222
+Exact Match Accuracy   : 0.2852
+
+--- CHARACTER STATS ---
+Substitutions          : 9828
+Deletions              : 52835
+Insertions             : 4232
+
+--- WORD STATS ---
+Substitutions          : 4200
+Deletions              : 61
+Insertions             : 0
+
+--- BEST / WORST ---
+Best CER file          : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_line_004.jpg (0.0000)
+Worst CER file         : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_line_022.jpg (1.0000)
+
+
+TEST B 
+
+
+FT 
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.1713 (17.13%)
+Global WER             : 0.8952 (89.52%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.1976
+Mean WER               : 0.8952
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.8025
+Exact Match Accuracy   : 0.1048
+
+--- CHARACTER STATS ---
+Substitutions          : 33752
+Deletions              : 133819
+Insertions             : 4161
+
+--- WORD STATS ---
+Substitutions          : 5050
+Deletions              : 286
+Insertions             : 0
+
+--- BEST / WORST ---
+Best CER file          : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_018.jpg (0.0000)
+Worst CER file         : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_023.jpg (1.0000)
+
+
+
+BASE
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.1591 (15.91%)
+Global WER             : 0.8155 (81.55%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.1762
+Mean WER               : 0.8155
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.8241
+Exact Match Accuracy   : 0.1845
+
+--- CHARACTER STATS ---
+Substitutions          : 27759
+Deletions              : 126018
+Insertions             : 5748
+
+--- WORD STATS ---
+Substitutions          : 4563
+Deletions              : 298
+Insertions             : 0
+
+--- BEST / WORST ---
+Best CER file          : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_015.jpg (0.0000)
+Worst CER file         : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_022.jpg (1.0000)
+
+
+
+TEST C 
+
+
+FT 
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.1350 (13.50%)
+Global WER             : 0.8836 (88.36%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.1583
+Mean WER               : 0.8836
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.8418
+Exact Match Accuracy   : 0.1164
+
+--- CHARACTER STATS ---
+Substitutions          : 44249
+Deletions              : 220621
+Insertions             : 5783
+
+--- WORD STATS ---
+Substitutions          : 10193
+Deletions              : 341
+Insertions             : 0
+
+--- BEST / WORST ---
+Best CER file          : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_018.jpg (0.0000)
+Worst CER file         : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_023.jpg (1.0000)
+
+
+BASE 
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.1129 (11.29%)
+Global WER             : 0.7651 (76.51%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.1271
+Mean WER               : 0.7651
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.8732
+Exact Match Accuracy   : 0.2349
+
+--- CHARACTER STATS ---
+Substitutions          : 37587
+Deletions              : 178853
+Insertions             : 9980
+
+--- WORD STATS ---
+Substitutions          : 8763
+Deletions              : 359
+Insertions             : 0
+
+--- BEST / WORST ---
+Best CER file          : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_015.jpg (0.0000)
+Worst CER file         : test/images/docstructbench_enbook-zlib-o.O-19091739.pdf_181_au_01_line_022.jpg (1.0000)
+
+
+TEST D 
+
+
+FT
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.5053 (50.53%)
+Global WER             : 0.9898 (98.98%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.4563
+Mean WER               : 0.9898
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.5437
+Exact Match Accuracy   : 0.0102
+
+--- CHARACTER STATS ---
+Substitutions          : 10815
+Deletions              : 223086
+Insertions             : 3493
+
+--- WORD STATS ---
+Substitutions          : 3692
+Deletions              : 1621
+Insertions             : 0
+
+--- BEST / WORST ---
+Best CER file          : test/images/synth_doc_00002_line_009.jpg (0.0000)
+Worst CER file         : test/images/synth_doc_00001_line_002.jpg (1.0000)
+
+
+
+BASE
+
+
+--- GLOBAL METRICS (recommended) ---
+Global CER             : 0.4873 (48.73%)
+Global WER             : 0.9022 (90.22%)
+
+--- MEAN METRICS ---
+Mean CER               : 0.4358
+Mean WER               : 0.9022
+
+--- OCR PAPER METRICS ---
+1-NED / ANLS           : 0.5642
+Exact Match Accuracy   : 0.0978
+
+--- CHARACTER STATS ---
+Substitutions          : 8641
+Deletions              : 215949
+Insertions             : 4364
+
+--- WORD STATS ---
+Substitutions          : 3226
+Deletions              : 1617
+Insertions             : 0
+
+--- BEST / WORST ---
+Best CER file          : test/images/synth_doc_00002_line_004.jpg (0.0000)
+Worst CER file         : test/images/synth_doc_00001_line_002.jpg (1.0000)

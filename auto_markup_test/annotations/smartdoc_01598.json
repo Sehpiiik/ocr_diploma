@@ -1,0 +1,779 @@
+{
+  "image": "smartdoc_01598.jpg",
+  "domain": "smartdoc",
+  "width": 2296,
+  "height": 3328,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "Chapter 1",
+      "bbox": [
+        [
+          201,
+          560
+        ],
+        [
+          653,
+          550
+        ],
+        [
+          655,
+          651
+        ],
+        [
+          204,
+          662
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Uses and Gratifications",
+      "bbox": [
+        [
+          219,
+          770
+        ],
+        [
+          1302,
+          754
+        ],
+        [
+          1303,
+          832
+        ],
+        [
+          220,
+          848
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1.1Introduction",
+      "bbox": [
+        [
+          230,
+          1036
+        ],
+        [
+          780,
+          1031
+        ],
+        [
+          781,
+          1090
+        ],
+        [
+          231,
+          1094
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Uses and gratifications approach is an influential tradition in media research. The original.",
+      "bbox": [
+        [
+          237,
+          1159
+        ],
+        [
+          2150,
+          1139
+        ],
+        [
+          2151,
+          1196
+        ],
+        [
+          237,
+          1216
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "conception of the approach was based on the research for explaining the great appeal of",
+      "bbox": [
+        [
+          241,
+          1220
+        ],
+        [
+          2150,
+          1200
+        ],
+        [
+          2151,
+          1252
+        ],
+        [
+          242,
+          1272
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "certain media contents. The core question of such research is: Why do people use media.",
+      "bbox": [
+        [
+          243,
+          1274
+        ],
+        [
+          2144,
+          1261
+        ],
+        [
+          2144,
+          1311
+        ],
+        [
+          244,
+          1324
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and what do they use them for? (McQuail, 1983). There exists a basic idea in this approach:",
+      "bbox": [
+        [
+          248,
+          1328
+        ],
+        [
+          2139,
+          1319
+        ],
+        [
+          2140,
+          1369
+        ],
+        [
+          248,
+          1378
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "audience members know media content, and which media they can use to meet their needs.",
+      "bbox": [
+        [
+          252,
+          1387
+        ],
+        [
+          2135,
+          1380
+        ],
+        [
+          2135,
+          1423
+        ],
+        [
+          252,
+          1430
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "In the mass communication process, uses and gratifications approach puts the function of",
+      "bbox": [
+        [
+          252,
+          1443
+        ],
+        [
+          2144,
+          1436
+        ],
+        [
+          2144,
+          1480
+        ],
+        [
+          252,
+          1486
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "linking need gratifications and media choice clearly on the side of audience members. It",
+      "bbox": [
+        [
+          257,
+          1497
+        ],
+        [
+          2139,
+          1493
+        ],
+        [
+          2139,
+          1536
+        ],
+        [
+          257,
+          1541
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "suggests that people's needs influence what media they would choose, how they use cer-.",
+      "bbox": [
+        [
+          257,
+          1549
+        ],
+        [
+          2137,
+          1547
+        ],
+        [
+          2137,
+          1597
+        ],
+        [
+          257,
+          1599
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tain media and what gratifications the media give them. This approach differs from other",
+      "bbox": [
+        [
+          259,
+          1605
+        ],
+        [
+          2135,
+          1608
+        ],
+        [
+          2135,
+          1651
+        ],
+        [
+          259,
+          1649
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "theoretical perspectives in that it regards audiences as active media users as opposed to.",
+      "bbox": [
+        [
+          261,
+          1653
+        ],
+        [
+          2133,
+          1662
+        ],
+        [
+          2133,
+          1712
+        ],
+        [
+          261,
+          1703
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "passive receivers of information. In contrast to traditional media effects theories which focus",
+      "bbox": [
+        [
+          265,
+          1709
+        ],
+        [
+          2131,
+          1714
+        ],
+        [
+          2131,
+          1766
+        ],
+        [
+          265,
+          1761
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "on \"what media do to people\" and assume audiences are homogeneous, uses and gratifica-.",
+      "bbox": [
+        [
+          268,
+          1761
+        ],
+        [
+          2127,
+          1772
+        ],
+        [
+          2126,
+          1822
+        ],
+        [
+          267,
+          1811
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tions approach is more concerned with \"what people do with media\" (Katz, 1959). It allows",
+      "bbox": [
+        [
+          268,
+          1813
+        ],
+        [
+          2129,
+          1829
+        ],
+        [
+          2128,
+          1879
+        ],
+        [
+          267,
+          1863
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "audiences personal needs to use media and responds to the media, which determined by.",
+      "bbox": [
+        [
+          272,
+          1861
+        ],
+        [
+          2127,
+          1883
+        ],
+        [
+          2126,
+          1939
+        ],
+        [
+          272,
+          1917
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "their social and psychological background. Uses and gratifications approach also postulates",
+      "bbox": [
+        [
+          274,
+          1917
+        ],
+        [
+          2124,
+          1939
+        ],
+        [
+          2124,
+          1989
+        ],
+        [
+          274,
+          1967
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "that the media compete with other information sources for audience's need satisfaction (Katz.",
+      "bbox": [
+        [
+          274,
+          1967
+        ],
+        [
+          2127,
+          1991
+        ],
+        [
+          2126,
+          2046
+        ],
+        [
+          274,
+          2021
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "et al., 1974a). As traditional mass media and new media continue to provide people with a.",
+      "bbox": [
+        [
+          279,
+          2019
+        ],
+        [
+          2125,
+          2046
+        ],
+        [
+          2124,
+          2102
+        ],
+        [
+          278,
+          2075
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "wide range of media platforms and content, it is considered one of the most appropriate.",
+      "bbox": [
+        [
+          279,
+          2071
+        ],
+        [
+          2125,
+          2102
+        ],
+        [
+          2124,
+          2158
+        ],
+        [
+          278,
+          2127
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "perspectives for investigating why audiences choose to be exposed to different.",
+      "bbox": [
+        [
+          283,
+          2130
+        ],
+        [
+          1870,
+          2152
+        ],
+        [
+          1869,
+          2202
+        ],
+        [
+          282,
+          2179
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The approach emphasizes audiences' choice by assessing their reasons for using",
+      "bbox": [
+        [
+          351,
+          2175
+        ],
+        [
+          2122,
+          2210
+        ],
+        [
+          2121,
+          2269
+        ],
+        [
+          350,
+          2233
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "a certain media to the disregard of others, as well as the various gratifications obtained.",
+      "bbox": [
+        [
+          288,
+          2227
+        ],
+        [
+          2125,
+          2265
+        ],
+        [
+          2123,
+          2321
+        ],
+        [
+          287,
+          2283
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "from the media, based on individual social and psychological requirements (Severin",
+      "bbox": [
+        [
+          290,
+          2277
+        ],
+        [
+          2123,
+          2319
+        ],
+        [
+          2121,
+          2375
+        ],
+        [
+          289,
+          2333
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "& Tankard, 1997). As a broader perspective among communication researches, it pro-",
+      "bbox": [
+        [
+          292,
+          2329
+        ],
+        [
+          2120,
+          2375
+        ],
+        [
+          2119,
+          2431
+        ],
+        [
+          291,
+          2385
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "vides a framework for understanding the processes by which media participants seek",
+      "bbox": [
+        [
+          297,
+          2379
+        ],
+        [
+          2123,
+          2427
+        ],
+        [
+          2121,
+          2483
+        ],
+        [
+          295,
+          2435
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "information or content selectively, commensurate with their needs and interests (Katz",
+      "bbox": [
+        [
+          295,
+          2426
+        ],
+        [
+          2123,
+          2477
+        ],
+        [
+          2121,
+          2540
+        ],
+        [
+          293,
+          2489
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "et al., 1974a). Audience members then incorporate the content to fulfill their needs or",
+      "bbox": [
+        [
+          297,
+          2478
+        ],
+        [
+          2123,
+          2529
+        ],
+        [
+          2121,
+          2592
+        ],
+        [
+          295,
+          2541
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "to satisfy their interests (Lowery & Nabila, 1983).",
+      "bbox": [
+        [
+          301,
+          2539
+        ],
+        [
+          1311,
+          2561
+        ],
+        [
+          1310,
+          2611
+        ],
+        [
+          300,
+          2589
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1.2 Origin and History",
+      "bbox": [
+        [
+          308,
+          2677
+        ],
+        [
+          1003,
+          2698
+        ],
+        [
+          1001,
+          2761
+        ],
+        [
+          306,
+          2740
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "It is well accepted that communication theories have developed through the realms of psy-",
+      "bbox": [
+        [
+          310,
+          2777
+        ],
+        [
+          2110,
+          2848
+        ],
+        [
+          2107,
+          2911
+        ],
+        [
+          308,
+          2840
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "chology and sociology over the past 100 years. With illumed by valuable ideas as well as",
+      "bbox": [
+        [
+          315,
+          2833
+        ],
+        [
+          2108,
+          2900
+        ],
+        [
+          2105,
+          2958
+        ],
+        [
+          312,
+          2892
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "exploring more untilled fields in these two disciplines, researchers elicit a series of higher",
+      "bbox": [
+        [
+          317,
+          2883
+        ],
+        [
+          2108,
+          2954
+        ],
+        [
+          2105,
+          3012
+        ],
+        [
+          315,
+          2942
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "conceptions of understanding media.",
+      "bbox": [
+        [
+          320,
+          2944
+        ],
+        [
+          1025,
+          2967
+        ],
+        [
+          1023,
+          3008
+        ],
+        [
+          319,
+          2985
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

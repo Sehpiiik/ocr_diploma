@@ -1,0 +1,1021 @@
+{
+  "image": "smartdoc_00471.jpg",
+  "domain": "smartdoc",
+  "width": 2296,
+  "height": 3328,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "Like many other structuralist scholars, Barthes was influenced by Saussure structural linguistics.",
+      "bbox": [
+        [
+          247,
+          260
+        ],
+        [
+          2152,
+          203
+        ],
+        [
+          2153,
+          253
+        ],
+        [
+          249,
+          310
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "To Saussure, the linguistic mechanism operates on two levels, the systematic system and the variation",
+      "bbox": [
+        [
+          186,
+          319
+        ],
+        [
+          2160,
+          262
+        ],
+        [
+          2162,
+          312
+        ],
+        [
+          188,
+          369
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "by speaking actors. The former is called langue and the latter parole. Langue is the systematized set",
+      "bbox": [
+        [
+          189,
+          377
+        ],
+        [
+          2162,
+          320
+        ],
+        [
+          2164,
+          370
+        ],
+        [
+          190,
+          427
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "of conventions necessary to communication, indifferent to the material of the signal which compose",
+      "bbox": [
+        [
+          191,
+          434
+        ],
+        [
+          2156,
+          381
+        ],
+        [
+          2157,
+          431
+        ],
+        [
+          192,
+          484
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "it; as opposed to it, speech (parole) is covers the purely individual part of language\" (Barthes, 1967,",
+      "bbox": [
+        [
+          193,
+          492
+        ],
+        [
+          2154,
+          439
+        ],
+        [
+          2155,
+          489
+        ],
+        [
+          194,
+          542
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Iangue, is the social convention or value shared through a society which is stabilized and standardized.",
+      "bbox": [
+        [
+          200,
+          603
+        ],
+        [
+          2147,
+          554
+        ],
+        [
+          2149,
+          604
+        ],
+        [
+          201,
+          653
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "On the contrary, parole is flexible because it is the actual expression at the individual level. However,",
+      "bbox": [
+        [
+          204,
+          657
+        ],
+        [
+          2147,
+          613
+        ],
+        [
+          2149,
+          663
+        ],
+        [
+          205,
+          707
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "it is considered relatively flexible due to the fact that speech by an individual cannot be free from the",
+      "bbox": [
+        [
+          200,
+          707
+        ],
+        [
+          2152,
+          667
+        ],
+        [
+          2153,
+          723
+        ],
+        [
+          201,
+          763
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "shared convention, the structure.",
+      "bbox": [
+        [
+          209,
+          767
+        ],
+        [
+          832,
+          760
+        ],
+        [
+          833,
+          804
+        ],
+        [
+          209,
+          810
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "A language is therefore, -a social institution and a system of values. It is the social part of",
+      "bbox": [
+        [
+          317,
+          856
+        ],
+        [
+          2034,
+          821
+        ],
+        [
+          2035,
+          871
+        ],
+        [
+          318,
+          906
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "language, it is essentially a collective contract which one must accept in its entirety if one",
+      "bbox": [
+        [
+          319,
+          908
+        ],
+        [
+          2028,
+          879
+        ],
+        [
+          2029,
+          929
+        ],
+        [
+          320,
+          958
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "wishes to communicate. It is because a language is a system of contractual values that it",
+      "bbox": [
+        [
+          321,
+          964
+        ],
+        [
+          2030,
+          936
+        ],
+        [
+          2031,
+          986
+        ],
+        [
+          322,
+          1014
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "resists the modifications coming from a single individual and is consequently a social insti-",
+      "bbox": [
+        [
+          324,
+          1016
+        ],
+        [
+          2024,
+          990
+        ],
+        [
+          2024,
+          1040
+        ],
+        [
+          324,
+          1066
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tution. In contrast to language, which is both institution and system, speech is essentially",
+      "bbox": [
+        [
+          326,
+          1071
+        ],
+        [
+          2024,
+          1048
+        ],
+        [
+          2024,
+          1098
+        ],
+        [
+          327,
+          1120
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "an individual act of selection and actualization. The speaking subject can use the code",
+      "bbox": [
+        [
+          330,
+          1123
+        ],
+        [
+          2024,
+          1103
+        ],
+        [
+          2024,
+          1152
+        ],
+        [
+          331,
+          1172
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "of the language with a view to expressing his personal thought. It is because speech is",
+      "bbox": [
+        [
+          335,
+          1177
+        ],
+        [
+          2024,
+          1159
+        ],
+        [
+          2024,
+          1209
+        ],
+        [
+          335,
+          1227
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "essentially a combinative activity that it corresponds to and individual act and not to a pure",
+      "bbox": [
+        [
+          339,
+          1231
+        ],
+        [
+          2017,
+          1215
+        ],
+        [
+          2018,
+          1259
+        ],
+        [
+          339,
+          1274
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "creation.(Barthes,1967,pp.14-15)",
+      "bbox": [
+        [
+          341,
+          1283
+        ],
+        [
+          1011,
+          1278
+        ],
+        [
+          1011,
+          1322
+        ],
+        [
+          342,
+          1326
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Focusing on the systematic level, Sausurre distinguishes the language system into two parts, the",
+      "bbox": [
+        [
+          304,
+          1367
+        ],
+        [
+          2124,
+          1358
+        ],
+        [
+          2124,
+          1404
+        ],
+        [
+          305,
+          1413
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "signified and the signifier. The signified is a concept or meaning which is expressed through the form..",
+      "bbox": [
+        [
+          246,
+          1421
+        ],
+        [
+          2120,
+          1413
+        ],
+        [
+          2120,
+          1456
+        ],
+        [
+          246,
+          1465
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The form is called the signifier, which is the external part of language. For example, both the word.",
+      "bbox": [
+        [
+          248,
+          1471
+        ],
+        [
+          2122,
+          1467
+        ],
+        [
+          2122,
+          1510
+        ],
+        [
+          248,
+          1515
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "animal, the concept in question, becomes the signified. \"I propose to retain the word sign (signe) to",
+      "bbox": [
+        [
+          252,
+          1577
+        ],
+        [
+          2120,
+          1577
+        ],
+        [
+          2120,
+          1618
+        ],
+        [
+          252,
+          1618
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "designate the whole and to replace concept and sound-image respectively by signified (signifie) and",
+      "bbox": [
+        [
+          254,
+          1623
+        ],
+        [
+          2120,
+          1627
+        ],
+        [
+          2120,
+          1671
+        ],
+        [
+          254,
+          1666
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "signifier (significant); the last two terms have the advantage of indicating the opposition that sepa-.",
+      "bbox": [
+        [
+          257,
+          1675
+        ],
+        [
+          2116,
+          1679
+        ],
+        [
+          2115,
+          1723
+        ],
+        [
+          257,
+          1718
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "rates them from each other and from the whole of which they are parts\" (Saussure, 1959, in R. Innis",
+      "bbox": [
+        [
+          259,
+          1722
+        ],
+        [
+          2118,
+          1731
+        ],
+        [
+          2118,
+          1775
+        ],
+        [
+          259,
+          1766
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(ed.), p. 37). The correspondence of the concept/meaning to the external form is not in the destined",
+      "bbox": [
+        [
+          263,
+          1774
+        ],
+        [
+          2116,
+          1785
+        ],
+        [
+          2115,
+          1827
+        ],
+        [
+          263,
+          1816
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "relation, but rather, in the arbitrary relation. It is not the inevitable internal relation but the difference",
+      "bbox": [
+        [
+          263,
+          1826
+        ],
+        [
+          2111,
+          1840
+        ],
+        [
+          2111,
+          1876
+        ],
+        [
+          263,
+          1863
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "between the signs that operates the signifying system. Saussure (1960) argues that \"language does",
+      "bbox": [
+        [
+          265,
+          1874
+        ],
+        [
+          2113,
+          1889
+        ],
+        [
+          2113,
+          1931
+        ],
+        [
+          265,
+          1915
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "not reflect a pre-existent and external reality of independent objects, but constructs meaning from",
+      "bbox": [
+        [
+          268,
+          1922
+        ],
+        [
+          2111,
+          1939
+        ],
+        [
+          2111,
+          1983
+        ],
+        [
+          267,
+          1965
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "within itself through a series of conceptual and phonic differences\". According to Saussure, \"meaning.",
+      "bbox": [
+        [
+          268,
+          1965
+        ],
+        [
+          2114,
+          1989
+        ],
+        [
+          2113,
+          2039
+        ],
+        [
+          267,
+          2015
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "is produced through a process of selection and combination of signs along two axes, the syntagmatic",
+      "bbox": [
+        [
+          274,
+          2019
+        ],
+        [
+          2111,
+          2043
+        ],
+        [
+          2111,
+          2087
+        ],
+        [
+          274,
+          2062
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "2002, p. 29). As a grammatical set of signs or the underlying systematic order, the syntag-.",
+      "bbox": [
+        [
+          277,
+          2110
+        ],
+        [
+          2111,
+          2143
+        ],
+        [
+          2111,
+          2193
+        ],
+        [
+          276,
+          2160
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "matic comprises a sentence, and the paradigmatic means a field of possible signs that can",
+      "bbox": [
+        [
+          277,
+          2160
+        ],
+        [
+          2111,
+          2193
+        ],
+        [
+          2111,
+          2243
+        ],
+        [
+          276,
+          2210
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "be replaced with one another. Despite various possibilities in selecting the signs within the",
+      "bbox": [
+        [
+          281,
+          2210
+        ],
+        [
+          2107,
+          2243
+        ],
+        [
+          2106,
+          2293
+        ],
+        [
+          280,
+          2260
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "same paradigmatic, the selection is also regulated by the consensus of linguistic community",
+      "bbox": [
+        [
+          281,
+          2253
+        ],
+        [
+          2107,
+          2291
+        ],
+        [
+          2106,
+          2347
+        ],
+        [
+          280,
+          2309
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "members. For an example of the syntagmatic and the paradigmatic, lets consider the follow-",
+      "bbox": [
+        [
+          283,
+          2305
+        ],
+        [
+          2105,
+          2342
+        ],
+        [
+          2104,
+          2392
+        ],
+        [
+          282,
+          2355
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ing sentence: \"I went to a theater with my girlfriend.\" This sentence is established through the",
+      "bbox": [
+        [
+          286,
+          2353
+        ],
+        [
+          2105,
+          2392
+        ],
+        [
+          2104,
+          2442
+        ],
+        [
+          284,
+          2402
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "linear combination of signs. The signs within the example, such as I theater, my, and girlfriend can be",
+      "bbox": [
+        [
+          288,
+          2398
+        ],
+        [
+          2103,
+          2442
+        ],
+        [
+          2102,
+          2492
+        ],
+        [
+          287,
+          2448
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "substituted for by other signs in the paradigmatic, such as \"She went to a restaurant with her mother.\"",
+      "bbox": [
+        [
+          290,
+          2446
+        ],
+        [
+          2103,
+          2492
+        ],
+        [
+          2102,
+          2542
+        ],
+        [
+          289,
+          2496
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Through the syntagmatic and the paradigmatic, Saussure tells us that signs are operated only when",
+      "bbox": [
+        [
+          294,
+          2493
+        ],
+        [
+          2103,
+          2542
+        ],
+        [
+          2102,
+          2592
+        ],
+        [
+          293,
+          2543
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "they are related to each other. \"Crucially, signs do not make sense by virtue of reference to entities in",
+      "bbox": [
+        [
+          294,
+          2541
+        ],
+        [
+          2101,
+          2592
+        ],
+        [
+          2099,
+          2642
+        ],
+        [
+          293,
+          2591
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "an independent object world; rather, they generate meaning by reference to each other. Thus, mean-",
+      "bbox": [
+        [
+          297,
+          2586
+        ],
+        [
+          2096,
+          2642
+        ],
+        [
+          2095,
+          2692
+        ],
+        [
+          295,
+          2636
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ing is understood as a social convention organized through the relations between signs\" (Barker, C.,",
+      "bbox": [
+        [
+          299,
+          2634
+        ],
+        [
+          2094,
+          2692
+        ],
+        [
+          2093,
+          2741
+        ],
+        [
+          297,
+          2684
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "2002, p. 29). \"It is central to Saussures argument that red is meaningful in relation to the difference",
+      "bbox": [
+        [
+          301,
+          2682
+        ],
+        [
+          2094,
+          2739
+        ],
+        [
+          2093,
+          2789
+        ],
+        [
+          300,
+          2732
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "between red, green, amber, etc. These signs are then organized into a sequence which generates",
+      "bbox": [
+        [
+          301,
+          2729
+        ],
+        [
+          2097,
+          2789
+        ],
+        [
+          2095,
+          2839
+        ],
+        [
+          299,
+          2779
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "meaning through the cultural conventions of their usage within a particular context.",
+      "bbox": [
+        [
+          303,
+          2779
+        ],
+        [
+          1770,
+          2826
+        ],
+        [
+          1769,
+          2874
+        ],
+        [
+          302,
+          2827
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

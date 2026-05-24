@@ -1,0 +1,1043 @@
+{
+  "image": "smartdoc_02120.jpg",
+  "domain": "smartdoc",
+  "width": 2296,
+  "height": 3328,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "1.RETURN TO GERMANY",
+      "bbox": [
+        [
+          273,
+          274
+        ],
+        [
+          846,
+          240
+        ],
+        [
+          849,
+          283
+        ],
+        [
+          276,
+          317
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Return to Germany",
+      "bbox": [
+        [
+          358,
+          371
+        ],
+        [
+          962,
+          348
+        ],
+        [
+          964,
+          400
+        ],
+        [
+          360,
+          423
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1",
+      "bbox": [
+        [
+          280,
+          386
+        ],
+        [
+          320,
+          386
+        ],
+        [
+          320,
+          420
+        ],
+        [
+          280,
+          420
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "were published without their permission in 1949, Horkheimer and Adorno protested, distancing",
+      "bbox": [
+        [
+          271,
+          477
+        ],
+        [
+          2077,
+          396
+        ],
+        [
+          2079,
+          446
+        ],
+        [
+          273,
+          527
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "themselves from their own work, in order not to jeopardize their return to Germany. In the late",
+      "bbox": [
+        [
+          269,
+          532
+        ],
+        [
+          2077,
+          452
+        ],
+        [
+          2079,
+          502
+        ],
+        [
+          271,
+          581
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1940s the Institute relocated to Frankfurt, and opened in its new premises in 1951. Horkheimer",
+      "bbox": [
+        [
+          269,
+          584
+        ],
+        [
+          2081,
+          504
+        ],
+        [
+          2084,
+          554
+        ],
+        [
+          271,
+          633
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "became the Vice-Chancellor of the University of Frankfurt. In 1954 Adorno published an essay",
+      "bbox": [
+        [
+          269,
+          636
+        ],
+        [
+          2079,
+          558
+        ],
+        [
+          2081,
+          610
+        ],
+        [
+          271,
+          688
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "entitled How to Look at Television that was the result of a study that had been done for the",
+      "bbox": [
+        [
+          269,
+          690
+        ],
+        [
+          2086,
+          612
+        ],
+        [
+          2088,
+          662
+        ],
+        [
+          271,
+          740
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Hacker Foundation, with the involvement of George Gerbner and others. In this essay Adorno",
+      "bbox": [
+        [
+          267,
+          740
+        ],
+        [
+          2088,
+          667
+        ],
+        [
+          2090,
+          721
+        ],
+        [
+          269,
+          794
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "warned, rigid institutionalization transforms modern mass culture into a medium of undreamed",
+      "bbox": [
+        [
+          267,
+          796
+        ],
+        [
+          2086,
+          721
+        ],
+        [
+          2088,
+          771
+        ],
+        [
+          269,
+          846
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "of psychological control (Adorno, 2001a, p. 160). It was one of the few occasions in the 1950s",
+      "bbox": [
+        [
+          265,
+          846
+        ],
+        [
+          2090,
+          773
+        ],
+        [
+          2092,
+          831
+        ],
+        [
+          267,
+          904
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "that Adorno would discuss the implications of mass culture. At least one observer found it",
+      "bbox": [
+        [
+          267,
+          900
+        ],
+        [
+          2090,
+          831
+        ],
+        [
+          2092,
+          881
+        ],
+        [
+          269,
+          950
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "strange that the leading cultural theorist of his day did not take part in cultural developments",
+      "bbox": [
+        [
+          267,
+          954
+        ],
+        [
+          2093,
+          886
+        ],
+        [
+          2094,
+          935
+        ],
+        [
+          269,
+          1004
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "his thought on the culture industry.For example, in 1959 he wrote of a universal pseudo-culture",
+      "bbox": [
+        [
+          265,
+          1056
+        ],
+        [
+          2095,
+          996
+        ],
+        [
+          2097,
+          1046
+        ],
+        [
+          266,
+          1106
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "in the United States (Adorno, 1993, p. 21), and gave a radio talk in Germany in 1963 on The",
+      "bbox": [
+        [
+          262,
+          1108
+        ],
+        [
+          2097,
+          1048
+        ],
+        [
+          2099,
+          1104
+        ],
+        [
+          264,
+          1164
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Culture Industry Reconsidered. In 1966, when writing the essay Transparencies on Film,",
+      "bbox": [
+        [
+          265,
+          1160
+        ],
+        [
+          2103,
+          1102
+        ],
+        [
+          2105,
+          1159
+        ],
+        [
+          266,
+          1216
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Adorno conceded that film-making might be an acceptable cultural practice in opposition to",
+      "bbox": [
+        [
+          267,
+          1216
+        ],
+        [
+          2102,
+          1163
+        ],
+        [
+          2103,
+          1213
+        ],
+        [
+          268,
+          1266
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "the culture industry, within the context of modernism (Hohendahl, 1995, p. 131).",
+      "bbox": [
+        [
+          265,
+          1268
+        ],
+        [
+          1843,
+          1224
+        ],
+        [
+          1844,
+          1274
+        ],
+        [
+          266,
+          1318
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "2 One-Dimensional Man, and Suppression of The Culture",
+      "bbox": [
+        [
+          256,
+          1398
+        ],
+        [
+          2123,
+          1354
+        ],
+        [
+          2125,
+          1423
+        ],
+        [
+          258,
+          1467
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Industry",
+      "bbox": [
+        [
+          365,
+          1482
+        ],
+        [
+          628,
+          1482
+        ],
+        [
+          628,
+          1540
+        ],
+        [
+          365,
+          1540
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Marcuse put an analysis of late capitalist society into a systematic context, as opposed to",
+      "bbox": [
+        [
+          265,
+          1595
+        ],
+        [
+          2111,
+          1560
+        ],
+        [
+          2111,
+          1603
+        ],
+        [
+          266,
+          1638
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "other writers in the Frankfurt School (Wiggershaus, 1994, p. 609). Instead of culture serving",
+      "bbox": [
+        [
+          258,
+          1643
+        ],
+        [
+          2115,
+          1614
+        ],
+        [
+          2116,
+          1664
+        ],
+        [
+          259,
+          1692
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ideological ends, for Marcuse social control mechanisms in advanced industrial society ensure",
+      "bbox": [
+        [
+          261,
+          1701
+        ],
+        [
+          2117,
+          1672
+        ],
+        [
+          2118,
+          1716
+        ],
+        [
+          261,
+          1744
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "the wholesale integration of the individual into mass society (Reitz, 2000, p. 144). Capitalist",
+      "bbox": [
+        [
+          261,
+          1755
+        ],
+        [
+          2117,
+          1729
+        ],
+        [
+          2118,
+          1772
+        ],
+        [
+          261,
+          1799
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "production and the tremendous wealth that resulted from it formed a system of repressive",
+      "bbox": [
+        [
+          256,
+          1809
+        ],
+        [
+          2122,
+          1783
+        ],
+        [
+          2122,
+          1833
+        ],
+        [
+          257,
+          1859
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "affluence that kept elements of society satisfied and quiescent (Alway, 1995, p. 83). The",
+      "bbox": [
+        [
+          256,
+          1861
+        ],
+        [
+          2124,
+          1841
+        ],
+        [
+          2124,
+          1891
+        ],
+        [
+          257,
+          1911
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "entirety of society had become organized around an ideology whose main objectives were to.",
+      "bbox": [
+        [
+          256,
+          1918
+        ],
+        [
+          2124,
+          1898
+        ],
+        [
+          2124,
+          1946
+        ],
+        [
+          257,
+          1965
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "maintain social control and continue to perpetuate the ideology that maintained that control.",
+      "bbox": [
+        [
+          256,
+          1974
+        ],
+        [
+          2117,
+          1959
+        ],
+        [
+          2118,
+          2002
+        ],
+        [
+          257,
+          2017
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Echoing Adorno, Marcuse wondered whether the information and entertainment aspects",
+      "bbox": [
+        [
+          320,
+          2024
+        ],
+        [
+          2131,
+          2013
+        ],
+        [
+          2131,
+          2063
+        ],
+        [
+          320,
+          2074
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "of mass media could be differentiated from their manipulation and indoctrination functions.",
+      "bbox": [
+        [
+          254,
+          2082
+        ],
+        [
+          2131,
+          2071
+        ],
+        [
+          2131,
+          2119
+        ],
+        [
+          255,
+          2130
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(Marcuse, 1991, p. 8). However, it is difficult in Marcuses argument to separate culture",
+      "bbox": [
+        [
+          259,
+          2136
+        ],
+        [
+          2135,
+          2128
+        ],
+        [
+          2135,
+          2177
+        ],
+        [
+          259,
+          2186
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "or mass media from society as a whole because Marcuse did not distinguish culture or mass",
+      "bbox": [
+        [
+          250,
+          2191
+        ],
+        [
+          2139,
+          2186
+        ],
+        [
+          2140,
+          2238
+        ],
+        [
+          250,
+          2243
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "media as entities separate from the totality of dominant ideology in the same way that Adorno",
+      "bbox": [
+        [
+          254,
+          2251
+        ],
+        [
+          2137,
+          2251
+        ],
+        [
+          2137,
+          2294
+        ],
+        [
+          254,
+          2294
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "had done. In the end Marcuses analysis of society allowed for no opposition to the dominant",
+      "bbox": [
+        [
+          248,
+          2303
+        ],
+        [
+          2142,
+          2305
+        ],
+        [
+          2142,
+          2355
+        ],
+        [
+          248,
+          2353
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ideology. Marcuse wrote, \"how can the administered individualswho have made their mutilation",
+      "bbox": [
+        [
+          246,
+          2357
+        ],
+        [
+          2144,
+          2360
+        ],
+        [
+          2144,
+          2416
+        ],
+        [
+          246,
+          2414
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "into their own liberties and satisfactions, and thus reproduce it on an enlarged scaleliberate.",
+      "bbox": [
+        [
+          246,
+          2414
+        ],
+        [
+          2146,
+          2425
+        ],
+        [
+          2146,
+          2474
+        ],
+        [
+          246,
+          2463
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "themselves from themselves as well as from their masters? How is it even thinkable that the",
+      "bbox": [
+        [
+          246,
+          2470
+        ],
+        [
+          2148,
+          2481
+        ],
+        [
+          2148,
+          2533
+        ],
+        [
+          246,
+          2522
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "vicious circle be broken? (Marcuse, 1991, p. 251). Given the pessimistic tone of the book,",
+      "bbox": [
+        [
+          244,
+          2526
+        ],
+        [
+          2150,
+          2542
+        ],
+        [
+          2150,
+          2598
+        ],
+        [
+          243,
+          2583
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "it is somewhat ironic that largely because of it he would be perceived as an icon for leftist",
+      "bbox": [
+        [
+          239,
+          2587
+        ],
+        [
+          2157,
+          2602
+        ],
+        [
+          2157,
+          2654
+        ],
+        [
+          239,
+          2639
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "movements of the 1960s in the U.S. and Germany that developed an oppositional stance.",
+      "bbox": [
+        [
+          240,
+          2641
+        ],
+        [
+          2157,
+          2661
+        ],
+        [
+          2156,
+          2717
+        ],
+        [
+          239,
+          2697
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "In spite of this, Marcuse maintained that he was a philosopher, and not an activist. Like others",
+      "bbox": [
+        [
+          237,
+          2702
+        ],
+        [
+          2159,
+          2722
+        ],
+        [
+          2159,
+          2778
+        ],
+        [
+          237,
+          2758
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "associated with the Frankfurt School, he was wary of the idea that theory could be translated",
+      "bbox": [
+        [
+          240,
+          2760
+        ],
+        [
+          2159,
+          2787
+        ],
+        [
+          2159,
+          2836
+        ],
+        [
+          239,
+          2810
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "into practice (Chambers, 2004, p.226).",
+      "bbox": [
+        [
+          239,
+          2825
+        ],
+        [
+          1022,
+          2832
+        ],
+        [
+          1022,
+          2877
+        ],
+        [
+          239,
+          2871
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "In reviewing the text in 1961, Friedrich Pollack reported to Adorno and Horkheimer that the",
+      "bbox": [
+        [
+          298,
+          2877
+        ],
+        [
+          2164,
+          2904
+        ],
+        [
+          2163,
+          2960
+        ],
+        [
+          298,
+          2933
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "work required too much revision to receive mass dissemination. The two authors continued to.",
+      "bbox": [
+        [
+          238,
+          2938
+        ],
+        [
+          2164,
+          2971
+        ],
+        [
+          2163,
+          3021
+        ],
+        [
+          237,
+          2988
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "negotiate with the Fischer publishing house until 1969, and may have only agreed to republish",
+      "bbox": [
+        [
+          235,
+          2996
+        ],
+        [
+          2166,
+          3034
+        ],
+        [
+          2165,
+          3086
+        ],
+        [
+          234,
+          3048
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "the work since pirate copies had already been disseminated by individuals.",
+      "bbox": [
+        [
+          231,
+          3057
+        ],
+        [
+          1751,
+          3086
+        ],
+        [
+          1750,
+          3135
+        ],
+        [
+          230,
+          3107
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "image": "smartdoc_00898.jpg",
+  "domain": "smartdoc",
+  "width": 2296,
+  "height": 3328,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "1.NEEDS ANDGRATIFICATIONS",
+      "bbox": [
+        [
+          232,
+          293
+        ],
+        [
+          924,
+          286
+        ],
+        [
+          924,
+          329
+        ],
+        [
+          233,
+          336
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Five basic assumptions were stated in a study of Katz, Blumler, and Gurevitch in 1974 as follows.",
+      "bbox": [
+        [
+          308,
+          421
+        ],
+        [
+          2030,
+          398
+        ],
+        [
+          2031,
+          448
+        ],
+        [
+          309,
+          470
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "They provide a framework for understanding the correlation between media and audiences:",
+      "bbox": [
+        [
+          243,
+          477
+        ],
+        [
+          1878,
+          455
+        ],
+        [
+          1879,
+          511
+        ],
+        [
+          244,
+          533
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1. The audience is conceived as active, i.e., an important part of of mass media use is.",
+      "bbox": [
+        [
+          417,
+          668
+        ],
+        [
+          1921,
+          637
+        ],
+        [
+          1922,
+          693
+        ],
+        [
+          418,
+          724
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "assumed to be goal oriented ... patterns of media use are shaped by more or less",
+      "bbox": [
+        [
+          476,
+          731
+        ],
+        [
+          1915,
+          695
+        ],
+        [
+          1916,
+          745
+        ],
+        [
+          477,
+          780
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "definite expectations of what certain kinds of content have to offer the audience",
+      "bbox": [
+        [
+          480,
+          785
+        ],
+        [
+          1912,
+          745
+        ],
+        [
+          1914,
+          795
+        ],
+        [
+          481,
+          835
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "member.",
+      "bbox": [
+        [
+          480,
+          841
+        ],
+        [
+          647,
+          836
+        ],
+        [
+          648,
+          881
+        ],
+        [
+          481,
+          887
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "2. In the mass communication process much initiative in linking need gratification and.",
+      "bbox": [
+        [
+          430,
+          913
+        ],
+        [
+          1906,
+          868
+        ],
+        [
+          1907,
+          918
+        ],
+        [
+          431,
+          962
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "media choice lies with the audience member. This places a strong limitation on",
+      "bbox": [
+        [
+          493,
+          969
+        ],
+        [
+          1899,
+          923
+        ],
+        [
+          1901,
+          966
+        ],
+        [
+          494,
+          1012
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "theorizing about any form of straight-line effect of media content on attitudes and",
+      "bbox": [
+        [
+          493,
+          1021
+        ],
+        [
+          1899,
+          968
+        ],
+        [
+          1901,
+          1018
+        ],
+        [
+          495,
+          1071
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "behavior.",
+      "bbox": [
+        [
+          502,
+          1077
+        ],
+        [
+          665,
+          1077
+        ],
+        [
+          665,
+          1114
+        ],
+        [
+          502,
+          1114
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "3. The media compete with other sources of need satisfaction. The needs served by",
+      "bbox": [
+        [
+          447,
+          1147
+        ],
+        [
+          1884,
+          1089
+        ],
+        [
+          1886,
+          1133
+        ],
+        [
+          449,
+          1190
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "mass communication constitute but a segment of the wider range of human needs,",
+      "bbox": [
+        [
+          504,
+          1199
+        ],
+        [
+          1879,
+          1137
+        ],
+        [
+          1881,
+          1180
+        ],
+        [
+          506,
+          1242
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and the degree to which they can be adequately met through mass media consump-",
+      "bbox": [
+        [
+          510,
+          1246
+        ],
+        [
+          1875,
+          1187
+        ],
+        [
+          1877,
+          1230
+        ],
+        [
+          512,
+          1290
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tion certainly varies.",
+      "bbox": [
+        [
+          510,
+          1301
+        ],
+        [
+          866,
+          1282
+        ],
+        [
+          868,
+          1325
+        ],
+        [
+          512,
+          1344
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "4. Methodologically speaking, many of the goals of mass media use can be derived",
+      "bbox": [
+        [
+          465,
+          1368
+        ],
+        [
+          1877,
+          1297
+        ],
+        [
+          1879,
+          1340
+        ],
+        [
+          467,
+          1411
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "from data supplied by individual audience members themselves- i.e., people",
+      "bbox": [
+        [
+          519,
+          1413
+        ],
+        [
+          1873,
+          1343
+        ],
+        [
+          1875,
+          1386
+        ],
+        [
+          521,
+          1457
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "are sufficiently self-aware to be able to report their interests and motives in",
+      "bbox": [
+        [
+          523,
+          1463
+        ],
+        [
+          1868,
+          1390
+        ],
+        [
+          1871,
+          1431
+        ],
+        [
+          525,
+          1504
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "particular cases, or at least to recognize them when confronted with them in an.",
+      "bbox": [
+        [
+          525,
+          1513
+        ],
+        [
+          1866,
+          1434
+        ],
+        [
+          1869,
+          1477
+        ],
+        [
+          528,
+          1556
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "intelligible and familiar verbal formulation.",
+      "bbox": [
+        [
+          527,
+          1561
+        ],
+        [
+          1294,
+          1514
+        ],
+        [
+          1297,
+          1555
+        ],
+        [
+          530,
+          1602
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "5. Value judgments about the cultural significance of mass communication should be",
+      "bbox": [
+        [
+          480,
+          1626
+        ],
+        [
+          1859,
+          1542
+        ],
+        [
+          1862,
+          1585
+        ],
+        [
+          482,
+          1669
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "suspended while audience orientations are explored on their own terms. (p. 15-17).",
+      "bbox": [
+        [
+          534,
+          1671
+        ],
+        [
+          1853,
+          1590
+        ],
+        [
+          1856,
+          1633
+        ],
+        [
+          537,
+          1715
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "In addition, Katz, Blumler, and Gurevitch also commented that, although previous researches on",
+      "bbox": [
+        [
+          406,
+          1756
+        ],
+        [
+          1946,
+          1657
+        ],
+        [
+          1949,
+          1700
+        ],
+        [
+          408,
+          1799
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "gratifications detected diverse gratifications that attract people on the media, they did not address the",
+      "bbox": [
+        [
+          349,
+          1808
+        ],
+        [
+          1944,
+          1698
+        ],
+        [
+          1947,
+          1745
+        ],
+        [
+          352,
+          1856
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "connections between these gratifications (Katz et al., 1974a). They suggested that uses and gratifi",
+      "bbox": [
+        [
+          351,
+          1856
+        ],
+        [
+          1935,
+          1745
+        ],
+        [
+          1938,
+          1789
+        ],
+        [
+          354,
+          1899
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "cations research concern with following aspects: (1) the social and the psychological origins of (2)",
+      "bbox": [
+        [
+          353,
+          1899
+        ],
+        [
+          1935,
+          1789
+        ],
+        [
+          1938,
+          1832
+        ],
+        [
+          356,
+          1942
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "needs which generate (3) expectations of (4) the mass media or other sources which lead to (5) dif-",
+      "bbox": [
+        [
+          360,
+          1947
+        ],
+        [
+          1931,
+          1834
+        ],
+        [
+          1934,
+          1875
+        ],
+        [
+          363,
+          1988
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ferential exposure (or engaging in other activities), resulting in (6) need gratification and (7) other",
+      "bbox": [
+        [
+          362,
+          1990
+        ],
+        [
+          1933,
+          1875
+        ],
+        [
+          1936,
+          1919
+        ],
+        [
+          365,
+          2033
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "consequences, perhaps mostly unintended ones (Katz et al., 1974b, p. 20). The studies of Katz and",
+      "bbox": [
+        [
+          364,
+          2038
+        ],
+        [
+          1931,
+          1916
+        ],
+        [
+          1934,
+          1960
+        ],
+        [
+          368,
+          2081
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "his colleagues laid a theoretical foundation of building the uses and gratifications approach. Since",
+      "bbox": [
+        [
+          369,
+          2079
+        ],
+        [
+          1928,
+          1960
+        ],
+        [
+          1932,
+          2003
+        ],
+        [
+          372,
+          2122
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "then, the research on this subject has been strengthened and extended. The current status of uses and",
+      "bbox": [
+        [
+          373,
+          2126
+        ],
+        [
+          1924,
+          2005
+        ],
+        [
+          1927,
+          2043
+        ],
+        [
+          376,
+          2163
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "gratifications is still based on Katz's first analysis, particularly as new media forms have emerged in.",
+      "bbox": [
+        [
+          373,
+          2166
+        ],
+        [
+          1926,
+          2040
+        ],
+        [
+          1930,
+          2090
+        ],
+        [
+          377,
+          2216
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "such an electronic information age when people have more options of media use.",
+      "bbox": [
+        [
+          375,
+          2213
+        ],
+        [
+          1631,
+          2109
+        ],
+        [
+          1634,
+          2150
+        ],
+        [
+          378,
+          2254
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1Needs and Gratifications",
+      "bbox": [
+        [
+          388,
+          2326
+        ],
+        [
+          1069,
+          2265
+        ],
+        [
+          1073,
+          2309
+        ],
+        [
+          392,
+          2369
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Uses and gratifications approach emphasizes motives and the self-perceived needs of audience mem-",
+      "bbox": [
+        [
+          388,
+          2404
+        ],
+        [
+          1906,
+          2271
+        ],
+        [
+          1910,
+          2321
+        ],
+        [
+          392,
+          2454
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": " bers. Blumler and Katz (1974) concluded that different people can use the same communication mes-",
+      "bbox": [
+        [
+          388,
+          2447
+        ],
+        [
+          1904,
+          2310
+        ],
+        [
+          1908,
+          2360
+        ],
+        [
+          392,
+          2497
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "sage for very different purposes. The same media content may gratify different needs for different.",
+      "bbox": [
+        [
+          390,
+          2487
+        ],
+        [
+          1908,
+          2347
+        ],
+        [
+          1913,
+          2403
+        ],
+        [
+          395,
+          2543
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Basic needs, social situation, and the individual's background, such as experience, interests, and",
+      "bbox": [
+        [
+          459,
+          2606
+        ],
+        [
+          1901,
+          2468
+        ],
+        [
+          1906,
+          2518
+        ],
+        [
+          464,
+          2656
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "for using the media as there are media users (Blumler & Katz, 1974).",
+      "bbox": [
+        [
+          403,
+          2577
+        ],
+        [
+          1445,
+          2473
+        ],
+        [
+          1449,
+          2514
+        ],
+        [
+          407,
+          2619
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "education, affect people's ideas about what they want from media and which media best meet their",
+      "bbox": [
+        [
+          405,
+          2651
+        ],
+        [
+          1899,
+          2507
+        ],
+        [
+          1904,
+          2557
+        ],
+        [
+          410,
+          2701
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "needs. That is, audience members are aware of and can state their own motives and gratifications.",
+      "bbox": [
+        [
+          409,
+          2694
+        ],
+        [
+          1895,
+          2549
+        ],
+        [
+          1900,
+          2597
+        ],
+        [
+          414,
+          2742
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "for using different media.McQuail, Blumler, and Brown (1972) proposed a model of \"media-person",
+      "bbox": [
+        [
+          412,
+          2734
+        ],
+        [
+          1895,
+          2588
+        ],
+        [
+          1900,
+          2635
+        ],
+        [
+          416,
+          2781
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "interactions\" to classify four important media gratifications:",
+      "bbox": [
+        [
+          418,
+          2781
+        ],
+        [
+          1326,
+          2685
+        ],
+        [
+          1330,
+          2723
+        ],
+        [
+          422,
+          2818
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

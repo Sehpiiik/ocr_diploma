@@ -1,0 +1,823 @@
+{
+  "image": "smartdoc_02431.jpg",
+  "domain": "smartdoc",
+  "width": 2296,
+  "height": 3328,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "1.NEEDS ANDGRATIFICATIONS",
+      "bbox": [
+        [
+          263,
+          190
+        ],
+        [
+          862,
+          235
+        ],
+        [
+          859,
+          278
+        ],
+        [
+          260,
+          233
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1",
+      "bbox": [
+        [
+          261,
+          303
+        ],
+        [
+          311,
+          303
+        ],
+        [
+          311,
+          347
+        ],
+        [
+          261,
+          347
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Needs and Gratifications",
+      "bbox": [
+        [
+          361,
+          304
+        ],
+        [
+          1032,
+          350
+        ],
+        [
+          1028,
+          400
+        ],
+        [
+          358,
+          354
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Uses and gratifications approach emphasizes motives and the self-perceived needs of audience mem-",
+      "bbox": [
+        [
+          259,
+          406
+        ],
+        [
+          2043,
+          510
+        ],
+        [
+          2040,
+          560
+        ],
+        [
+          256,
+          456
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "bers. Blumler and Katz (1974) concluded that different people can use the same communication mes-",
+      "bbox": [
+        [
+          256,
+          458
+        ],
+        [
+          2043,
+          562
+        ],
+        [
+          2040,
+          614
+        ],
+        [
+          253,
+          510
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "sage for very different purposes. The same media content may gratify different needs for different",
+      "bbox": [
+        [
+          256,
+          515
+        ],
+        [
+          2047,
+          612
+        ],
+        [
+          2044,
+          662
+        ],
+        [
+          253,
+          565
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "individuals. There is not only one way that people uses media. Contrarily, there are as many reasons.",
+      "bbox": [
+        [
+          252,
+          565
+        ],
+        [
+          2051,
+          664
+        ],
+        [
+          2048,
+          718
+        ],
+        [
+          249,
+          619
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "for using the media as there are media users (Blumler & Katz, 1974).",
+      "bbox": [
+        [
+          252,
+          621
+        ],
+        [
+          1508,
+          690
+        ],
+        [
+          1505,
+          740
+        ],
+        [
+          249,
+          671
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Basic needs, social situation, and the individual's background, such as experience, interests, and",
+      "bbox": [
+        [
+          324,
+          677
+        ],
+        [
+          2051,
+          763
+        ],
+        [
+          2049,
+          818
+        ],
+        [
+          321,
+          732
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "education, affect people's ideas about what they want from media and which media best meet their",
+      "bbox": [
+        [
+          252,
+          727
+        ],
+        [
+          2053,
+          816
+        ],
+        [
+          2051,
+          872
+        ],
+        [
+          249,
+          783
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "needs. That is, audience members are aware of and can state their own motives and gratifications",
+      "bbox": [
+        [
+          249,
+          786
+        ],
+        [
+          2053,
+          870
+        ],
+        [
+          2051,
+          919
+        ],
+        [
+          247,
+          836
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "for using different media. McQuail, Blumler, and Brown (1972) proposed a model of \"media-person",
+      "bbox": [
+        [
+          247,
+          836
+        ],
+        [
+          2056,
+          917
+        ],
+        [
+          2053,
+          974
+        ],
+        [
+          245,
+          892
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "interactions\" to classify four important media gratifications: (1) Diversion: escape from routine or",
+      "bbox": [
+        [
+          245,
+          892
+        ],
+        [
+          2055,
+          969
+        ],
+        [
+          2053,
+          1026
+        ],
+        [
+          243,
+          948
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "identity: self reference; reality exploration; value reinforces; and (4) Surveillance (forms of informa-",
+      "bbox": [
+        [
+          245,
+          1002
+        ],
+        [
+          2058,
+          1071
+        ],
+        [
+          2055,
+          1127
+        ],
+        [
+          243,
+          1059
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tion seeking).",
+      "bbox": [
+        [
+          247,
+          1063
+        ],
+        [
+          512,
+          1075
+        ],
+        [
+          510,
+          1119
+        ],
+        [
+          245,
+          1107
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Another subdivided version of the audience's motivation was suggested by McGuire (1974), based",
+      "bbox": [
+        [
+          316,
+          1122
+        ],
+        [
+          2057,
+          1177
+        ],
+        [
+          2056,
+          1227
+        ],
+        [
+          315,
+          1172
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "on a general theory of human needs. He distinguished between two types of needs: cognitive and",
+      "bbox": [
+        [
+          247,
+          1178
+        ],
+        [
+          2057,
+          1231
+        ],
+        [
+          2056,
+          1274
+        ],
+        [
+          245,
+          1222
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "these factors yield 16 different types of motivations which apply to media use (Figure 1). Figure 1. A",
+      "bbox": [
+        [
+          242,
+          1341
+        ],
+        [
+          2064,
+          1385
+        ],
+        [
+          2063,
+          1435
+        ],
+        [
+          241,
+          1391
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "structuring of 16 general paradigms of human motivation (McGuire, 1974). Katz, Gurevitch and Haas",
+      "bbox": [
+        [
+          242,
+          1399
+        ],
+        [
+          2066,
+          1437
+        ],
+        [
+          2065,
+          1487
+        ],
+        [
+          241,
+          1449
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(1973) developed 35 needs taken from the social and psychological functions of the mass media and",
+      "bbox": [
+        [
+          244,
+          1458
+        ],
+        [
+          2064,
+          1493
+        ],
+        [
+          2063,
+          1536
+        ],
+        [
+          243,
+          1501
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "put them into five categories:",
+      "bbox": [
+        [
+          242,
+          1516
+        ],
+        [
+          816,
+          1526
+        ],
+        [
+          815,
+          1569
+        ],
+        [
+          241,
+          1560
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1. Cognitive needs, including acquiring information, knowledge and understanding;",
+      "bbox": [
+        [
+          298,
+          1614
+        ],
+        [
+          1844,
+          1634
+        ],
+        [
+          1843,
+          1677
+        ],
+        [
+          298,
+          1657
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "2. Affective needs, including emotion, pleasure, feelings;.",
+      "bbox": [
+        [
+          292,
+          1703
+        ],
+        [
+          1377,
+          1716
+        ],
+        [
+          1376,
+          1766
+        ],
+        [
+          291,
+          1753
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "3. Personal integrative needs, including credibility, stability, status;",
+      "bbox": [
+        [
+          291,
+          1803
+        ],
+        [
+          1548,
+          1809
+        ],
+        [
+          1548,
+          1853
+        ],
+        [
+          291,
+          1846
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "4. Social integrative needs, including interacting with family and friends; and",
+      "bbox": [
+        [
+          291,
+          1900
+        ],
+        [
+          1735,
+          1900
+        ],
+        [
+          1735,
+          1944
+        ],
+        [
+          291,
+          1944
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "5. Tension release needs, including escape and diversion.",
+      "bbox": [
+        [
+          287,
+          1993
+        ],
+        [
+          1387,
+          1989
+        ],
+        [
+          1387,
+          2032
+        ],
+        [
+          287,
+          2037
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Congruously, McQuail's (1983) classification of the following common reasons for media use:",
+      "bbox": [
+        [
+          302,
+          2091
+        ],
+        [
+          2028,
+          2076
+        ],
+        [
+          2029,
+          2128
+        ],
+        [
+          303,
+          2143
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "o finding out about relevant events and conditions in immediate surroundings, society and the",
+      "bbox": [
+        [
+          300,
+          2193
+        ],
+        [
+          2091,
+          2175
+        ],
+        [
+          2092,
+          2225
+        ],
+        [
+          300,
+          2243
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "world",
+      "bbox": [
+        [
+          341,
+          2256
+        ],
+        [
+          466,
+          2251
+        ],
+        [
+          468,
+          2296
+        ],
+        [
+          343,
+          2302
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "o seeking advice on practical matters or opinion and decision choices",
+      "bbox": [
+        [
+          297,
+          2351
+        ],
+        [
+          1621,
+          2324
+        ],
+        [
+          1622,
+          2374
+        ],
+        [
+          298,
+          2401
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": " satisfying curiosity and general interest",
+      "bbox": [
+        [
+          295,
+          2453
+        ],
+        [
+          1108,
+          2428
+        ],
+        [
+          1109,
+          2478
+        ],
+        [
+          297,
+          2503
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": " learning; self-education",
+      "bbox": [
+        [
+          291,
+          2551
+        ],
+        [
+          808,
+          2534
+        ],
+        [
+          809,
+          2584
+        ],
+        [
+          292,
+          2601
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": " gaining a sense of security through knowledge",
+      "bbox": [
+        [
+          291,
+          2653
+        ],
+        [
+          1238,
+          2617
+        ],
+        [
+          1240,
+          2667
+        ],
+        [
+          293,
+          2702
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": " finding reinforcement for personal values",
+      "bbox": [
+        [
+          288,
+          2802
+        ],
+        [
+          1151,
+          2766
+        ],
+        [
+          1153,
+          2816
+        ],
+        [
+          291,
+          2852
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "finding models of behavior",
+      "bbox": [
+        [
+          286,
+          2904
+        ],
+        [
+          866,
+          2879
+        ],
+        [
+          868,
+          2926
+        ],
+        [
+          288,
+          2952
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": " identifying with valued others (in the media)",
+      "bbox": [
+        [
+          284,
+          3006
+        ],
+        [
+          1212,
+          2963
+        ],
+        [
+          1214,
+          3013
+        ],
+        [
+          286,
+          3056
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "gaining insight into oneself",
+      "bbox": [
+        [
+          284,
+          3112
+        ],
+        [
+          872,
+          3076
+        ],
+        [
+          875,
+          3125
+        ],
+        [
+          287,
+          3162
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

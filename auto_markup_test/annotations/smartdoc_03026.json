@@ -1,0 +1,669 @@
+{
+  "image": "smartdoc_03026.jpg",
+  "domain": "smartdoc",
+  "width": 2296,
+  "height": 3328,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "Chapter 1",
+      "bbox": [
+        [
+          252,
+          580
+        ],
+        [
+          605,
+          592
+        ],
+        [
+          602,
+          673
+        ],
+        [
+          249,
+          660
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Uncertainty Reduction",
+      "bbox": [
+        [
+          254,
+          762
+        ],
+        [
+          1175,
+          785
+        ],
+        [
+          1173,
+          863
+        ],
+        [
+          252,
+          840
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1.1  Advances in Interpersonal Communication: Charles Berger, Richard Cal-",
+      "bbox": [
+        [
+          242,
+          999
+        ],
+        [
+          2077,
+          1025
+        ],
+        [
+          2076,
+          1088
+        ],
+        [
+          241,
+          1061
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "abrese and Key Uncertainty Theorists",
+      "bbox": [
+        [
+          370,
+          1077
+        ],
+        [
+          1270,
+          1090
+        ],
+        [
+          1269,
+          1140
+        ],
+        [
+          369,
+          1126
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Since the mid-twentieth century, the concept of information has been a strong foundation for communication",
+      "bbox": [
+        [
+          244,
+          1172
+        ],
+        [
+          2083,
+          1187
+        ],
+        [
+          2083,
+          1237
+        ],
+        [
+          243,
+          1222
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "research and the development of communication theory. Information exchange is a basic human function in",
+      "bbox": [
+        [
+          242,
+          1228
+        ],
+        [
+          2083,
+          1242
+        ],
+        [
+          2083,
+          1285
+        ],
+        [
+          241,
+          1272
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "which individuals request, provide, and exchange information with the goal of reducing uncertainty. Uncer-",
+      "bbox": [
+        [
+          244,
+          1278
+        ],
+        [
+          2079,
+          1294
+        ],
+        [
+          2078,
+          1337
+        ],
+        [
+          243,
+          1322
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tainty Reduction theory (URT), accredited to Charles R. Berger and Richard J.Calabrese (1975), recognized that",
+      "bbox": [
+        [
+          241,
+          1332
+        ],
+        [
+          2085,
+          1343
+        ],
+        [
+          2085,
+          1387
+        ],
+        [
+          241,
+          1376
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "reducing uncertainty was a central motive of communication. Through the development of URT, these scholars",
+      "bbox": [
+        [
+          241,
+          1382
+        ],
+        [
+          2083,
+          1391
+        ],
+        [
+          2083,
+          1434
+        ],
+        [
+          241,
+          1426
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "pioneered the field of interpersonal communication by examining this significant relationship in uncertainty",
+      "bbox": [
+        [
+          241,
+          1436
+        ],
+        [
+          2083,
+          1445
+        ],
+        [
+          2083,
+          1486
+        ],
+        [
+          241,
+          1478
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "research. Heath and Bryant (2ooo) state: \"One of the motivations underpinning interpersonal communication",
+      "bbox": [
+        [
+          239,
+          1486
+        ],
+        [
+          2087,
+          1493
+        ],
+        [
+          2087,
+          1536
+        ],
+        [
+          239,
+          1530
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "is the acquisition of information with which to reduce uncertainty\" (p. 153). The study of information is basic",
+      "bbox": [
+        [
+          239,
+          1538
+        ],
+        [
+          2090,
+          1545
+        ],
+        [
+          2089,
+          1588
+        ],
+        [
+          239,
+          1582
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "to all fields of communication, but its relation to the study of uncertainty in particular advanced theoretical",
+      "bbox": [
+        [
+          237,
+          1590
+        ],
+        [
+          2089,
+          1595
+        ],
+        [
+          2089,
+          1636
+        ],
+        [
+          237,
+          1631
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "research in the field of interpersonal communication. URT places the role of communication into the central",
+      "bbox": [
+        [
+          235,
+          1642
+        ],
+        [
+          2092,
+          1645
+        ],
+        [
+          2092,
+          1688
+        ],
+        [
+          235,
+          1686
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "focus which was a key step in the development of the field of interpersonal communication. Berger and Cal-",
+      "bbox": [
+        [
+          237,
+          1696
+        ],
+        [
+          2092,
+          1696
+        ],
+        [
+          2092,
+          1738
+        ],
+        [
+          237,
+          1738
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "abrese (1975) note: \"When communication researchers have conducted empirical research on the interpersonal",
+      "bbox": [
+        [
+          237,
+          1748
+        ],
+        [
+          2096,
+          1748
+        ],
+        [
+          2096,
+          1790
+        ],
+        [
+          237,
+          1790
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "communication process, they have tended to employ social psychological theories as starting points\" (p. 99).",
+      "bbox": [
+        [
+          233,
+          1803
+        ],
+        [
+          2094,
+          1798
+        ],
+        [
+          2094,
+          1842
+        ],
+        [
+          233,
+          1846
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The research underlying the theory and efforts made by other contemporaries marked the emergence of inter-",
+      "bbox": [
+        [
+          235,
+          1855
+        ],
+        [
+          2094,
+          1850
+        ],
+        [
+          2094,
+          1891
+        ],
+        [
+          235,
+          1896
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "personal communication research; with the development of URT, communication researchers began to look to",
+      "bbox": [
+        [
+          233,
+          1907
+        ],
+        [
+          2100,
+          1900
+        ],
+        [
+          2100,
+          1946
+        ],
+        [
+          233,
+          1952
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "communication for theories of greater understanding rather than theoretical approaches founded in other social",
+      "bbox": [
+        [
+          228,
+          1961
+        ],
+        [
+          2102,
+          1952
+        ],
+        [
+          2103,
+          1995
+        ],
+        [
+          228,
+          2004
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "sciences.",
+      "bbox": [
+        [
+          230,
+          2015
+        ],
+        [
+          391,
+          2015
+        ],
+        [
+          391,
+          2058
+        ],
+        [
+          230,
+          2058
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1.2 The History of Interpersonal Communication Research: A Brief Overview",
+      "bbox": [
+        [
+          224,
+          2141
+        ],
+        [
+          2111,
+          2128
+        ],
+        [
+          2111,
+          2184
+        ],
+        [
+          224,
+          2197
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Traditionally, communication has been viewed as an interdisciplinary field. Interpersonal communication is",
+      "bbox": [
+        [
+          224,
+          2245
+        ],
+        [
+          2115,
+          2229
+        ],
+        [
+          2116,
+          2279
+        ],
+        [
+          224,
+          2295
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "most often linked to studies into language, social cognition, and social psychology. Prior to the 1960s, only a",
+      "bbox": [
+        [
+          219,
+          2301
+        ],
+        [
+          2120,
+          2286
+        ],
+        [
+          2120,
+          2336
+        ],
+        [
+          220,
+          2351
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "modest amount of research was completed under the label of interpersonal communication. Heath and Bryant",
+      "bbox": [
+        [
+          217,
+          2355
+        ],
+        [
+          2122,
+          2338
+        ],
+        [
+          2122,
+          2388
+        ],
+        [
+          218,
+          2405
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(2000) marked this time as the origin of the field of interpersonal communication: *Particularly since 1960,",
+      "bbox": [
+        [
+          217,
+          2410
+        ],
+        [
+          2122,
+          2387
+        ],
+        [
+          2122,
+          2444
+        ],
+        [
+          218,
+          2466
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "aspect of human behavior (p. 59). The 1960s produced research that impacted the development of an in-",
+      "bbox": [
+        [
+          213,
+          2520
+        ],
+        [
+          2124,
+          2491
+        ],
+        [
+          2125,
+          2550
+        ],
+        [
+          214,
+          2579
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "psychiatric problems were not only a result of self problems, but a result of relational problems as well. Re-",
+      "bbox": [
+        [
+          211,
+          2633
+        ],
+        [
+          2126,
+          2600
+        ],
+        [
+          2127,
+          2658
+        ],
+        [
+          212,
+          2691
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "search trends in humanistic psychology and existentialism inspired the idea that relationships could be improved",
+      "bbox": [
+        [
+          208,
+          2685
+        ],
+        [
+          2132,
+          2658
+        ],
+        [
+          2133,
+          2717
+        ],
+        [
+          209,
+          2743
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "through effective",
+      "bbox": [
+        [
+          210,
+          2750
+        ],
+        [
+          525,
+          2740
+        ],
+        [
+          527,
+          2790
+        ],
+        [
+          212,
+          2800
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

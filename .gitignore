@@ -1,0 +1,11 @@
+u_datasets/
+ocr_datasets/datasets/
+auto_markup_test/.venv/ 
+documents_generator/.venv/
+generate_ppocr_valid_dataset/.venv/
+noise_generator/.venv/
+noise_generator/__pycache__/
+ocr_datasets/.venv/
+omnidocbench_split/.venv/
+train_test_split/__pycache__/
+training_graphs/.venv/

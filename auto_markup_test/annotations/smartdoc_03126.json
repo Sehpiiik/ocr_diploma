@@ -1,0 +1,1021 @@
+{
+  "image": "smartdoc_03126.jpg",
+  "domain": "smartdoc",
+  "width": 1648,
+  "height": 2464,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "Rogers was born in Carroll, Iowa in 1931.He earned his B.A.,M.A., and Ph.D.degrees from Iowa",
+      "bbox": [
+        [
+          137,
+          286
+        ],
+        [
+          1358,
+          266
+        ],
+        [
+          1359,
+          298
+        ],
+        [
+          137,
+          318
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "State University.For two years during the Korean War, he served in the U.S.Air Force.Interestingly,",
+      "bbox": [
+        [
+          90,
+          321
+        ],
+        [
+          1360,
+          303
+        ],
+        [
+          1360,
+          338
+        ],
+        [
+          90,
+          356
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "in 1966, he worked on some family planning communication projects in Korea.",
+      "bbox": [
+        [
+          92,
+          363
+        ],
+        [
+          1096,
+          345
+        ],
+        [
+          1096,
+          375
+        ],
+        [
+          92,
+          393
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The book has become the standard textbook on diffusion theory and it creats applications of diffu-",
+      "bbox": [
+        [
+          137,
+          398
+        ],
+        [
+          1361,
+          377
+        ],
+        [
+          1362,
+          407
+        ],
+        [
+          137,
+          429
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "sion theory in such fields as geography, economics, psychology,political science, and, as previously",
+      "bbox": [
+        [
+          90,
+          437
+        ],
+        [
+          1363,
+          414
+        ],
+        [
+          1363,
+          446
+        ],
+        [
+          91,
+          469
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "mentioned, communication. Rogers retired from University of New Mexico in 2004 because he was",
+      "bbox": [
+        [
+          90,
+          472
+        ],
+        [
+          1368,
+          449
+        ],
+        [
+          1368,
+          481
+        ],
+        [
+          91,
+          504
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "suffering from kidney disease. He died on October 21,2005.",
+      "bbox": [
+        [
+          92,
+          510
+        ],
+        [
+          869,
+          495
+        ],
+        [
+          869,
+          526
+        ],
+        [
+          92,
+          541
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "According to Rogers (1996), diffusion refers to \"the process by which an innovation is commu-",
+      "bbox": [
+        [
+          137,
+          547
+        ],
+        [
+          1368,
+          523
+        ],
+        [
+          1368,
+          555
+        ],
+        [
+          137,
+          579
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "nicated through certain channels over time among the members of a social system. An Innovation",
+      "bbox": [
+        [
+          90,
+          584
+        ],
+        [
+          1371,
+          561
+        ],
+        [
+          1371,
+          593
+        ],
+        [
+          91,
+          616
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "is an idea, practice or object perceived as new by an individual or other unit of adoption. The diffu-",
+      "bbox": [
+        [
+          90,
+          621
+        ],
+        [
+          1371,
+          597
+        ],
+        [
+          1371,
+          632
+        ],
+        [
+          91,
+          656
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "sion of innovations involves both mass media and interpersonal communication channels\" (p.409).",
+      "bbox": [
+        [
+          88,
+          656
+        ],
+        [
+          1374,
+          633
+        ],
+        [
+          1375,
+          670
+        ],
+        [
+          89,
+          693
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "That is, by sharing communication channels such as interpersonal communication or mass commu-",
+      "bbox": [
+        [
+          92,
+          696
+        ],
+        [
+          1374,
+          674
+        ],
+        [
+          1375,
+          707
+        ],
+        [
+          92,
+          730
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "nication people can get information of an innovation and perceive its innovation as useful. Lasswell",
+      "bbox": [
+        [
+          88,
+          733
+        ],
+        [
+          1380,
+          707
+        ],
+        [
+          1381,
+          744
+        ],
+        [
+          89,
+          770
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(1948) presented a well-known model of communication that is analyzed as five parts, S-M-C-R-E",
+      "bbox": [
+        [
+          90,
+          772
+        ],
+        [
+          1380,
+          746
+        ],
+        [
+          1381,
+          781
+        ],
+        [
+          91,
+          807
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(e.g., sender-message-channel-receiver-effect).Rogers (1995) mentioned,this S-M-C-R-E commu-",
+      "bbox": [
+        [
+          90,
+          810
+        ],
+        [
+          1382,
+          784
+        ],
+        [
+          1383,
+          821
+        ],
+        [
+          91,
+          847
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "nication model corresponds closely to the elements of diffusion (p. 19). Specifically,(1) sender",
+      "bbox": [
+        [
+          90,
+          849
+        ],
+        [
+          1382,
+          824
+        ],
+        [
+          1383,
+          858
+        ],
+        [
+          91,
+          882
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "can be inventors or opinion leaders, (2) message can be a new idea or product, (3) channels can be",
+      "bbox": [
+        [
+          88,
+          886
+        ],
+        [
+          1385,
+          860
+        ],
+        [
+          1386,
+          896
+        ],
+        [
+          89,
+          923
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "interpersonal or mass communication, (4) receivers can be members of a social system, and finally",
+      "bbox": [
+        [
+          90,
+          924
+        ],
+        [
+          1384,
+          898
+        ],
+        [
+          1384,
+          933
+        ],
+        [
+          91,
+          960
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "(5) the effects can be individual's adoption or social change. In the diffusion theory,'Time'variable",
+      "bbox": [
+        [
+          90,
+          961
+        ],
+        [
+          1388,
+          935
+        ],
+        [
+          1389,
+          972
+        ],
+        [
+          91,
+          998
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "is a very important factor. According to Rogers (1995), time variable is involved in diffusion in (1)",
+      "bbox": [
+        [
+          88,
+          1001
+        ],
+        [
+          1388,
+          973
+        ],
+        [
+          1389,
+          1009
+        ],
+        [
+          89,
+          1037
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "the innovation-decision process; (2) innovativeness; (3) an innovation's rate of adoption.Most inno-",
+      "bbox": [
+        [
+          88,
+          1038
+        ],
+        [
+          1388,
+          1012
+        ],
+        [
+          1389,
+          1047
+        ],
+        [
+          89,
+          1073
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "vations have an S-shaped rate of adoption. Diffusion research has attempted to explain the variables",
+      "bbox": [
+        [
+          93,
+          1078
+        ],
+        [
+          1392,
+          1050
+        ],
+        [
+          1392,
+          1083
+        ],
+        [
+          94,
+          1110
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "that influence how and why users and audience adopt a new information medium, such as the Internet.",
+      "bbox": [
+        [
+          93,
+          1117
+        ],
+        [
+          1390,
+          1091
+        ],
+        [
+          1391,
+          1123
+        ],
+        [
+          94,
+          1149
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "According to evolution of media technology, interpersonal influences are important even though in the",
+      "bbox": [
+        [
+          93,
+          1157
+        ],
+        [
+          1393,
+          1127
+        ],
+        [
+          1394,
+          1160
+        ],
+        [
+          94,
+          1189
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "past the individual is usually the unit of analysis. Also, critical mass becomes an important factor in",
+      "bbox": [
+        [
+          90,
+          1195
+        ],
+        [
+          1395,
+          1166
+        ],
+        [
+          1396,
+          1198
+        ],
+        [
+          91,
+          1227
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "adopting new media because new media are interactive tools and thus are required by many users to",
+      "bbox": [
+        [
+          93,
+          1232
+        ],
+        [
+          1395,
+          1204
+        ],
+        [
+          1396,
+          1237
+        ],
+        [
+          94,
+          1264
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "gain efficiency. That is, the more people use, the more people get benefits. In this sense, diffusion",
+      "bbox": [
+        [
+          91,
+          1271
+        ],
+        [
+          1400,
+          1241
+        ],
+        [
+          1400,
+          1278
+        ],
+        [
+          92,
+          1308
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "theory not only can apply to practical things, but also can be related to digital divide.",
+      "bbox": [
+        [
+          93,
+          1311
+        ],
+        [
+          1202,
+          1285
+        ],
+        [
+          1202,
+          1318
+        ],
+        [
+          94,
+          1345
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "There are five different types of adopters in the diffusion process, according to Innovativeness:",
+      "bbox": [
+        [
+          141,
+          1349
+        ],
+        [
+          1401,
+          1320
+        ],
+        [
+          1402,
+          1352
+        ],
+        [
+          142,
+          1381
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1) Innovators (venturesome),(2) Early Adopters (respectable),(3) Early Majority Deliberate),4",
+      "bbox": [
+        [
+          95,
+          1388
+        ],
+        [
+          1401,
+          1358
+        ],
+        [
+          1402,
+          1391
+        ],
+        [
+          95,
+          1420
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Late Majority (skeptical),and (5)Laggards (traditional)'(Rogers,1995,pp. 183-185).Rogers defined",
+      "bbox": [
+        [
+          91,
+          1428
+        ],
+        [
+          1404,
+          1397
+        ],
+        [
+          1405,
+          1429
+        ],
+        [
+          92,
+          1460
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "this term as \"the degree to which an individual is relatively earlier in adopting new ideas than other",
+      "bbox": [
+        [
+          93,
+          1466
+        ],
+        [
+          1406,
+          1437
+        ],
+        [
+          1407,
+          1469
+        ],
+        [
+          94,
+          1499
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "members of his social system'(Rogers, 1995, p.40).Figure 1 shows the relationships between types",
+      "bbox": [
+        [
+          91,
+          1503
+        ],
+        [
+          1409,
+          1476
+        ],
+        [
+          1410,
+          1512
+        ],
+        [
+          92,
+          1540
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "of adopters divided by innovativeness and their place on the adoption curve. Also, these categories",
+      "bbox": [
+        [
+          91,
+          1543
+        ],
+        [
+          1411,
+          1514
+        ],
+        [
+          1412,
+          1551
+        ],
+        [
+          92,
+          1580
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "follow a standard deviation curve which is bell-shaped.Source by www2.gsu.edu/~wwwitr/docs/dif",
+      "bbox": [
+        [
+          95,
+          1584
+        ],
+        [
+          1409,
+          1554
+        ],
+        [
+          1410,
+          1586
+        ],
+        [
+          95,
+          1616
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "fusion/Figure 2 shows that an innovation would spread through society over various periods oftime in",
+      "bbox": [
+        [
+          95,
+          1622
+        ],
+        [
+          1414,
+          1593
+        ],
+        [
+          1415,
+          1630
+        ],
+        [
+          95,
+          1659
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "a S-shaped curve.However, as noted above, different types ofinnovations (e.g.,the rate of tetracycline",
+      "bbox": [
+        [
+          91,
+          1664
+        ],
+        [
+          1416,
+          1633
+        ],
+        [
+          1417,
+          1668
+        ],
+        [
+          92,
+          1699
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "adoption is faster than that of the hybrid seed corn) can have their own different rates in diffusion.Fig-",
+      "bbox": [
+        [
+          91,
+          1699
+        ],
+        [
+          1417,
+          1671
+        ],
+        [
+          1418,
+          1713
+        ],
+        [
+          92,
+          1741
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ure 2. Shapes of curves of diffusions for innovations Source by: www.mitsue.co.jp/english/case/con-",
+      "bbox": [
+        [
+          91,
+          1742
+        ],
+        [
+          1419,
+          1711
+        ],
+        [
+          1420,
+          1748
+        ],
+        [
+          92,
+          1779
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "cept/02.html When it comes to the process of innovation-decisions, Rogers (1995) mentioned that",
+      "bbox": [
+        [
+          93,
+          1782
+        ],
+        [
+          1422,
+          1751
+        ],
+        [
+          1423,
+          1788
+        ],
+        [
+          94,
+          1819
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "there are five stages.",
+      "bbox": [
+        [
+          93,
+          1824
+        ],
+        [
+          370,
+          1822
+        ],
+        [
+          370,
+          1854
+        ],
+        [
+          93,
+          1856
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1. Knowledge+ or-(selective exposure or awareness of news)",
+      "bbox": [
+        [
+          135,
+          1896
+        ],
+        [
+          980,
+          1877
+        ],
+        [
+          980,
+          1912
+        ],
+        [
+          136,
+          1932
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "2. Attitudes+ or-(people have positive or negative attitude toward innovations)",
+      "bbox": [
+        [
+          133,
+          1965
+        ],
+        [
+          1214,
+          1939
+        ],
+        [
+          1215,
+          1976
+        ],
+        [
+          134,
+          2002
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "3.Adoption (Decision):people decide to adopt the innovation",
+      "bbox": [
+        [
+          133,
+          2033
+        ],
+        [
+          971,
+          2013
+        ],
+        [
+          972,
+          2050
+        ],
+        [
+          134,
+          2070
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "4. Implementation (regular or standard practice)",
+      "bbox": [
+        [
+          135,
+          2100
+        ],
+        [
+          785,
+          2087
+        ],
+        [
+          786,
+          2124
+        ],
+        [
+          136,
+          2137
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "5.Confirmation (comparing and evaluating)",
+      "bbox": [
+        [
+          133,
+          2169
+        ],
+        [
+          733,
+          2157
+        ],
+        [
+          734,
+          2194
+        ],
+        [
+          134,
+          2206
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}

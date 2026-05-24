@@ -1,0 +1,999 @@
+{
+  "image": "smartdoc_01627.jpg",
+  "domain": "smartdoc",
+  "width": 1648,
+  "height": 2464,
+  "bbox_format": "polygon",
+  "objects": [
+    {
+      "text": "It is well accepted that communication theories have developed through the realms of psychology and so-",
+      "bbox": [
+        [
+          216,
+          322
+        ],
+        [
+          1355,
+          326
+        ],
+        [
+          1355,
+          358
+        ],
+        [
+          216,
+          354
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ciology over the past 100 years. With illumed by valuable ideas as well as exploring more untilled fields in these",
+      "bbox": [
+        [
+          179,
+          359
+        ],
+        [
+          1355,
+          361
+        ],
+        [
+          1355,
+          388
+        ],
+        [
+          179,
+          387
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "two disciplines,researchers elicit a series of higher conceptions of understanding media.As a sub-tradition of",
+      "bbox": [
+        [
+          177,
+          391
+        ],
+        [
+          1357,
+          393
+        ],
+        [
+          1357,
+          425
+        ],
+        [
+          177,
+          423
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "media effects research, uses and gratifications approach is suggested to be originally stemmed from a func-",
+      "bbox": [
+        [
+          177,
+          425
+        ],
+        [
+          1354,
+          427
+        ],
+        [
+          1353,
+          459
+        ],
+        [
+          177,
+          457
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "tionalist paradigm in the social sciences (Blumler & Katz,1974). To some extent, however, functional theory",
+      "bbox": [
+        [
+          179,
+          459
+        ],
+        [
+          1354,
+          462
+        ],
+        [
+          1353,
+          493
+        ],
+        [
+          179,
+          489
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "on communication agrees with media's effects towards people. For example, a model often used in the the-",
+      "bbox": [
+        [
+          180,
+          494
+        ],
+        [
+          1350,
+          496
+        ],
+        [
+          1350,
+          523
+        ],
+        [
+          180,
+          521
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ory, the Hypodermic Syringe model, discusses that \"the mass media have a direct,immediate and influential",
+      "bbox": [
+        [
+          180,
+          528
+        ],
+        [
+          1352,
+          529
+        ],
+        [
+          1352,
+          557
+        ],
+        [
+          180,
+          555
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "effect upon audiences byinjecting'information into the consciousness of the masses\" (Watson & Hill 1997,p.",
+      "bbox": [
+        [
+          182,
+          561
+        ],
+        [
+          1350,
+          561
+        ],
+        [
+          1350,
+          592
+        ],
+        [
+          182,
+          592
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "105).Functional theory influenced studies on communication from the 1920s to the 1940s.After that, a shift",
+      "bbox": [
+        [
+          182,
+          592
+        ],
+        [
+          1352,
+          594
+        ],
+        [
+          1352,
+          626
+        ],
+        [
+          182,
+          624
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "which rediscovered the relationship between media and people occurred and led to establishment of uses",
+      "bbox": [
+        [
+          182,
+          626
+        ],
+        [
+          1352,
+          627
+        ],
+        [
+          1352,
+          659
+        ],
+        [
+          182,
+          658
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and gratifications approach.",
+      "bbox": [
+        [
+          185,
+          661
+        ],
+        [
+          486,
+          663
+        ],
+        [
+          486,
+          690
+        ],
+        [
+          185,
+          688
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "The exploration of gratifications that motivate people to be attracted to certain media is almost as old as",
+      "bbox": [
+        [
+          227,
+          695
+        ],
+        [
+          1349,
+          696
+        ],
+        [
+          1349,
+          723
+        ],
+        [
+          227,
+          722
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "interested in the reasons for viewing different radio programmes, such as soap operas and quizzes, as well",
+      "bbox": [
+        [
+          183,
+          759
+        ],
+        [
+          1350,
+          760
+        ],
+        [
+          1350,
+          792
+        ],
+        [
+          183,
+          791
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "as daily newspaper (Lazrsfeld &Stanton,1944,1949;Herzog,1944;Warner & Henry,1948;etc.).In these",
+      "bbox": [
+        [
+          187,
+          794
+        ],
+        [
+          1347,
+          794
+        ],
+        [
+          1347,
+          825
+        ],
+        [
+          187,
+          825
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "studies, researchers discovered a list of functions served either by some specific content or by the medium",
+      "bbox": [
+        [
+          188,
+          826
+        ],
+        [
+          1345,
+          828
+        ],
+        [
+          1345,
+          855
+        ],
+        [
+          188,
+          853
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "itself (Katz et al., 1974b). For instance, radio soap operas were found to satisfy their listeners with advice,",
+      "bbox": [
+        [
+          188,
+          857
+        ],
+        [
+          1344,
+          858
+        ],
+        [
+          1344,
+          890
+        ],
+        [
+          188,
+          889
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "support, or occasions for emotional release (Herzog,1944;Warner and Henry,1948); rather than just offering",
+      "bbox": [
+        [
+          188,
+          892
+        ],
+        [
+          1345,
+          892
+        ],
+        [
+          1345,
+          922
+        ],
+        [
+          188,
+          922
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "information, newspaper was also discovered to be important to give readers a sense of security,shared topics",
+      "bbox": [
+        [
+          190,
+          924
+        ],
+        [
+          1344,
+          926
+        ],
+        [
+          1344,
+          953
+        ],
+        [
+          190,
+          951
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "of conversation and a structure to the daily routine (Berelson, 1949). For these diverse dimensions of usage",
+      "bbox": [
+        [
+          192,
+          959
+        ],
+        [
+          1342,
+          959
+        ],
+        [
+          1342,
+          985
+        ],
+        [
+          192,
+          985
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "satisfaction,psychologist Herzog (1944) marked them with the term gratifications.\"",
+      "bbox": [
+        [
+          192,
+          991
+        ],
+        [
+          1075,
+          991
+        ],
+        [
+          1075,
+          1017
+        ],
+        [
+          192,
+          1017
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Uses and gratifications approach became prevailing in the late 1950s till 1970s when television has grown",
+      "bbox": [
+        [
+          235,
+          1023
+        ],
+        [
+          1341,
+          1023
+        ],
+        [
+          1341,
+          1049
+        ],
+        [
+          235,
+          1049
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "up.Some basic assumptions of the approach were proposed when it was rediscovered during that era.Among",
+      "bbox": [
+        [
+          191,
+          1056
+        ],
+        [
+          1341,
+          1054
+        ],
+        [
+          1341,
+          1081
+        ],
+        [
+          192,
+          1083
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "the group of scholars who focus on uses and gratifications research, Elihu Katz is one of the most well-known",
+      "bbox": [
+        [
+          195,
+          1088
+        ],
+        [
+          1341,
+          1088
+        ],
+        [
+          1341,
+          1113
+        ],
+        [
+          195,
+          1113
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and contributed greatly to establishing the structure of the approach.",
+      "bbox": [
+        [
+          196,
+          1120
+        ],
+        [
+          924,
+          1120
+        ],
+        [
+          924,
+          1145
+        ],
+        [
+          196,
+          1145
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Elihu Katz is served both as a sociologist and as a communication researcher. He received his Ph.D. in So-",
+      "bbox": [
+        [
+          235,
+          1150
+        ],
+        [
+          1337,
+          1149
+        ],
+        [
+          1337,
+          1176
+        ],
+        [
+          235,
+          1177
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "ciology in 1956 from Columbia University and began teaching at the University of Chicago until 1963.During",
+      "bbox": [
+        [
+          196,
+          1182
+        ],
+        [
+          1339,
+          1181
+        ],
+        [
+          1339,
+          1208
+        ],
+        [
+          196,
+          1210
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "the next thirty years, he taught in the Department of Sociology and Communication at the Hebrew Univer-",
+      "bbox": [
+        [
+          196,
+          1214
+        ],
+        [
+          1336,
+          1213
+        ],
+        [
+          1336,
+          1238
+        ],
+        [
+          196,
+          1240
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "sity of Jerusalem. In the late 1960, invited by the Government of Israel, Katz headed the task force charged",
+      "bbox": [
+        [
+          196,
+          1246
+        ],
+        [
+          1337,
+          1245
+        ],
+        [
+          1337,
+          1270
+        ],
+        [
+          196,
+          1272
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "with the introduction of television broadcasting. This experience led to his subsequent academic work about",
+      "bbox": [
+        [
+          200,
+          1279
+        ],
+        [
+          1337,
+          1279
+        ],
+        [
+          1337,
+          1304
+        ],
+        [
+          200,
+          1304
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "broadcasting and television in leisure,culture and communication from the 1970s to1990s (UPENN,2001).In",
+      "bbox": [
+        [
+          200,
+          1309
+        ],
+        [
+          1336,
+          1307
+        ],
+        [
+          1336,
+          1333
+        ],
+        [
+          200,
+          1335
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "1992, he joined the faculty of the Annenberg School at the University of Pennsylvania, and also directed its",
+      "bbox": [
+        [
+          201,
+          1341
+        ],
+        [
+          1334,
+          1341
+        ],
+        [
+          1334,
+          1367
+        ],
+        [
+          201,
+          1367
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "experimental Scholars program for post-doctoral study.",
+      "bbox": [
+        [
+          201,
+          1373
+        ],
+        [
+          776,
+          1373
+        ],
+        [
+          776,
+          1399
+        ],
+        [
+          201,
+          1399
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Katz's mentor in Columbia University is Paul Lazarsfeld, who is one ofthe pioneers of gratifications research.",
+      "bbox": [
+        [
+          241,
+          1404
+        ],
+        [
+          1329,
+          1404
+        ],
+        [
+          1329,
+          1429
+        ],
+        [
+          241,
+          1429
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Their cooperating work produced important outgrowths that connect the concept of gratifications with the",
+      "bbox": [
+        [
+          201,
+          1436
+        ],
+        [
+          1333,
+          1432
+        ],
+        [
+          1333,
+          1458
+        ],
+        [
+          201,
+          1461
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "functional theory model. Later, Katz introduced uses and gratification approach when he came up with the",
+      "bbox": [
+        [
+          201,
+          1466
+        ],
+        [
+          1333,
+          1465
+        ],
+        [
+          1333,
+          1490
+        ],
+        [
+          201,
+          1492
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "notion that people use the media to their benefit. In a study by Katz, Gurevitch and Haas (1973), a subject",
+      "bbox": [
+        [
+          203,
+          1497
+        ],
+        [
+          1333,
+          1495
+        ],
+        [
+          1333,
+          1522
+        ],
+        [
+          203,
+          1524
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "which is known as the uses and gratifications research were explored.They viewed the mass media as a means",
+      "bbox": [
+        [
+          203,
+          1527
+        ],
+        [
+          1333,
+          1526
+        ],
+        [
+          1333,
+          1553
+        ],
+        [
+          203,
+          1554
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "by which individuals connect or disconnect themselves with others and found that people bend the media to",
+      "bbox": [
+        [
+          204,
+          1559
+        ],
+        [
+          1333,
+          1556
+        ],
+        [
+          1333,
+          1583
+        ],
+        [
+          204,
+          1587
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "their needs more readily than the media overpower them (Katz, Gurevitch and Haas, 1973).",
+      "bbox": [
+        [
+          204,
+          1590
+        ],
+        [
+          1149,
+          1586
+        ],
+        [
+          1149,
+          1614
+        ],
+        [
+          204,
+          1617
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "Along with colleague Jay G. Blumler, Katz published a collection of essays on gratifications in 1974 which",
+      "bbox": [
+        [
+          243,
+          1620
+        ],
+        [
+          1331,
+          1617
+        ],
+        [
+          1331,
+          1644
+        ],
+        [
+          243,
+          1648
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "were entitled The Uses of Mass Communication. They took a more humanistic approach to looking at media",
+      "bbox": [
+        [
+          206,
+          1651
+        ],
+        [
+          1331,
+          1647
+        ],
+        [
+          1331,
+          1675
+        ],
+        [
+          206,
+          1678
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "use. They suggest that media users seek out a medium source that best fulfills the needs of the user and",
+      "bbox": [
+        [
+          203,
+          1680
+        ],
+        [
+          1331,
+          1675
+        ],
+        [
+          1331,
+          1707
+        ],
+        [
+          203,
+          1712
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "they have alternate choices to satisfy their need.(Blumler & Katz,1974). They also discovered that media",
+      "bbox": [
+        [
+          204,
+          1710
+        ],
+        [
+          1331,
+          1707
+        ],
+        [
+          1331,
+          1739
+        ],
+        [
+          204,
+          1742
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "served the functions of surveillance, correlation,entertainment and cultural transmission for both society",
+      "bbox": [
+        [
+          206,
+          1741
+        ],
+        [
+          1331,
+          1739
+        ],
+        [
+          1331,
+          1771
+        ],
+        [
+          206,
+          1773
+        ]
+      ],
+      "type": "line"
+    },
+    {
+      "text": "and individuals (Blumler and Katz,1974).",
+      "bbox": [
+        [
+          209,
+          1776
+        ],
+        [
+          640,
+          1771
+        ],
+        [
+          641,
+          1797
+        ],
+        [
+          209,
+          1802
+        ]
+      ],
+      "type": "line"
+    }
+  ]
+}
