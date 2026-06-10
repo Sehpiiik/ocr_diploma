@@ -81,7 +81,7 @@ probability, order is shuffled per image):
    - Gaussian sensor noise
    - JPEG compression
 
-All effects are pixel-level — they never change image dimensions, so bbox
+All effects are pixel-level - they never change image dimensions, so bbox
 coordinates remain valid for the augmented variants.
 
 ## Install
