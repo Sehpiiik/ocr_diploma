@@ -1,4 +1,4 @@
-# noise_generator
+# Noise generator
 
 Apply realistic scanner / photocopier **photometric** distortions to clean
 document images **in place**. Image dimensions and the input `xywh` bbox
