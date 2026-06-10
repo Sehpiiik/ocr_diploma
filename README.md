@@ -23,3 +23,9 @@ As a result, a fine-tuned OCR model was obtained and compared with the baseline 
 
 ## Dataset
 You can download all the datasets used in the work using this link: https://disk.360.yandex.ru/d/AW_bC0YCeXJgqA
+
+## Technology stack
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
