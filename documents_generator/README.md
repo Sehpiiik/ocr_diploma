@@ -1,6 +1,8 @@
-# picture_generator
+# Document generator
 
-A small synthetic document generator.
+[English](./README.md) | [Русский](./README_RU.md)
+
+A synthetic document generator.
 Given a text corpus, it produces:
 
 - A specified number of page images (PNG).
@@ -25,9 +27,10 @@ Useful flags:
 
 | flag | default | meaning |
 | --- | --- | --- |
+| `--corpus / -n` | 10 | the corpus of text data to generate |
 | `--num / -n` | 10 | number of documents |
 | `--output / -o` | `out` | output directory |
-| `--width`, `--height` | 1240, 1754 | page size in px (A4 @ 150 DPI) |
+| `--width`, `--height` | 1240, 1754 | page size in px |
 | `--margin` | 100 | page margin |
 | `--font-size` | 24 | font size in px |
 | `--line-spacing` | 1.35 | line height multiplier |
