@@ -4,9 +4,6 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-# =========================
-# ROBUST REGEX (IMPORTANT FIX)
-# =========================
 step_re = re.compile(r"global_step:\s*(\d+)")
 epoch_re = re.compile(r"epoch:\s*\[(\d+)/(\d+)\]")
 
@@ -17,10 +14,6 @@ ned_re = re.compile(r"norm_edit_dis:\s*([\d.]+)")
 eval_acc_re = re.compile(r"cur metric.*?acc:\s*([\d.]+)")
 eval_ned_re = re.compile(r"cur metric.*?norm_edit_dis:\s*([\d.]+)")
 
-
-# =========================
-# EMA
-# =========================
 def ema(values, beta=0.9):
     if len(values) == 0:
         return values
@@ -30,11 +23,7 @@ def ema(values, beta=0.9):
         v = beta * v + (1 - beta) * x
         out.append(v)
     return out
-
-
-# =========================
-# SAFE PLOT
-# =========================
+    
 def plot(x, y, title, ylabel, out_path, best_idx=None):
     if len(x) == 0 or len(y) == 0:
         print(f"[WARN] Skipping {title}: empty data")
@@ -59,10 +48,6 @@ def plot(x, y, title, ylabel, out_path, best_idx=None):
     plt.savefig(out_path, dpi=150)
     plt.close()
 
-
-# =========================
-# MAIN
-# =========================
 def main():
     parser = argparse.ArgumentParser()
 
@@ -82,12 +67,10 @@ def main():
     with open(args.log_file, "r") as f:
         for line in f:
 
-            # ---------- STEP ----------
             m = step_re.search(line)
             if m:
                 last_step = int(m.group(1))
 
-            # ---------- TRAIN ----------
             if "global_step" in line and "cur metric" not in line:
                 m_loss = loss_re.search(line)
                 m_acc = acc_re.search(line)
@@ -101,7 +84,6 @@ def main():
                     if m_loss:
                         train_loss.append(float(m_loss.group(1)))
 
-            # ---------- EVAL ----------
             if "cur metric" in line:
                 m_acc = eval_acc_re.search(line)
                 m_ned = eval_ned_re.search(line)
@@ -111,33 +93,19 @@ def main():
                     eval_acc.append(float(m_acc.group(1)))
                     eval_ned.append(float(m_ned.group(1)))
 
-    # =========================
-    # SAFETY CHECK
-    # =========================
     print(f"Train points: {len(train_steps)}")
     print(f"Eval points: {len(eval_steps)}")
 
     if len(train_steps) == 0:
         raise RuntimeError("No training data parsed. Check log format or regex.")
 
-    # =========================
-    # BEST METRICS
-    # =========================
-
-    # accuracy: higher is better
     best_train_acc_idx = int(np.argmax(train_acc))
     best_eval_acc_idx = int(np.argmax(eval_acc)) if eval_acc else None
 
-    # NED: higher is better in PaddleOCR (as you correctly noted)
     best_train_ned_idx = int(np.argmax(train_ned))
     best_eval_ned_idx = int(np.argmax(eval_ned)) if eval_ned else None
 
-    # loss: lower is better
     best_train_loss_idx = int(np.argmin(train_loss)) if train_loss else None
-
-    # =========================
-    # PLOTS
-    # =========================
 
     plot(
         train_steps, train_loss,
