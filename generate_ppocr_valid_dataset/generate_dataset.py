@@ -17,9 +17,7 @@ import cv2
 import numpy as np
 from math import atan2, degrees, radians, cos, sin
 
-# Be tolerant to slightly truncated images instead of failing the whole run.
 ImageFile.LOAD_TRUNCATED_IMAGES = True
-# Disable PIL's decompression bomb guard for very large document scans.
 Image.MAX_IMAGE_PIXELS = None
 
 LOG = logging.getLogger("ppocr_rec_builder")
@@ -289,12 +287,6 @@ def process_annotation(
 
     return result
 
-
-# --------------------------------------------------------------------------- #
-# Worker entrypoint (must be top-level for multiprocessing)
-# --------------------------------------------------------------------------- #
-
-
 def _worker(args: tuple) -> CropResult:
     (
         ann_path_str,
@@ -314,8 +306,6 @@ def _worker(args: tuple) -> CropResult:
         pad_v,
         jpeg_quality,
     )
-
-
 
 def _iter_annotations(annotations_dir: Path, limit: Optional[int]) -> List[Path]:
     files = sorted(p for p in annotations_dir.iterdir() if p.suffix.lower() == ".json")
