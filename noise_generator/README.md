@@ -3,8 +3,8 @@
 [English](./README.md) | [Русский](./README_RU.md)
 
 Apply realistic scanner / photocopier **photometric** distortions to clean
-document images **in place**. Image dimensions and the input `xywh` bbox
-annotations are preserved exactly — no rotation, no perspective warp, no
+document images **in place**. Image dimensions and the input bbox
+annotations are preserved exactly - no rotation, no perspective warp, no
 polygon tracking.
 
 The pass is opt-in per document: only pairs whose annotation JSON has
