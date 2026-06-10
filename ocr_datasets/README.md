@@ -31,7 +31,7 @@ Every produced file looks like this:
 
 * ``domain`` is the source dataset: ``"ddi"``, ``"rdtag"``, or ``"smartdoc"``.
 * ``image`` is the basename of an actual file living next to the annotation
-  inside ``output/<dataset>/`` — every ``<name>.json`` has a sibling
+  inside ``output/<dataset>/`` - every ``<name>.json`` has a sibling
   ``<name>.png/.jpg``. See [Output layout](#output-layout) for the naming.
 * ``objects[*].type`` is always ``"line"`` — word-level inputs are merged into
   lines, line-level inputs are passed through.
@@ -40,7 +40,7 @@ Two ``bbox_format`` values are used:
 
 * ``"xywh"`` — axis-aligned ``[x, y, w, h]`` rectangle, in pixels.
   Used for **DDI100**, whose source is a rendered (perfectly aligned) page.
-* ``"polygon"`` — 4-point quadrilateral ``[[x, y], [x, y], [x, y], [x, y]]``
+* ``"polygon"`` - 4-point quadrilateral ``[[x, y], [x, y], [x, y], [x, y]]``
   in ``[TL, TR, BR, BL]`` order, in pixels. Used for **RDTAG** (axis-aligned
   rectangles expressed as quads, for schema uniformity) and **SmartDoc**
   (genuine perspective quads from photographed pages).
@@ -84,7 +84,7 @@ Naming rules:
   converter renames them to ``smartdoc_00001.jpg`` and emits
   ``smartdoc_00001.json`` alongside.
 
-The annotation's ``image`` field is always a basename — to load an image,
+The annotation's ``image`` field is always a basename - to load an image,
 join it with the sibling ``images/`` directory of its annotation file.
 
 ## Project layout
@@ -104,7 +104,7 @@ ocr_datasets/
 │   ├── DDI100_v1.3/
 │   ├── RDTAG-1.0/
 │   └── SmartDoc2015_Challenge_2/
-└── output/                          # Generated unified JSON (created on first run)
+└── output/                          # Generated unified JSON
     ├── ddi100/
     ├── rdtag/
     └── smartdoc/
@@ -135,7 +135,7 @@ DDI100_v1.3/
 ```
 
 Each `.pkl` is a `list[dict]` with `text`, `box`, and `chars`. `box` is a
-4-point `numpy.int32` array in `(row, col)` order — i.e. each row is `(y, x)`.
+4-point `numpy.int32` array in `(row, col)` order - i.e. each row is `(y, x)`.
 The converter extracts axis-aligned `xywh` bounds from the four corner points,
 then groups words into lines by vertical proximity.
 
@@ -147,8 +147,8 @@ Distributed with everything mixed inside each subset:
 RDTAG-1.0/
 └── Training_Set<N>/
     ├── <name>.jpg
-    ├── <name>.json     # word-level: list of {text, bounding_box: {x,y,w,h}, order}
-    └── <name>.txt      # plain-text transcription
+    ├── <name>.json    
+    └── <name>.txt    
 ```
 
 The converter expects the reorganized layout produced by
@@ -174,7 +174,7 @@ you at the script.
 ```
 SmartDoc2015_Challenge_2/
 ├── images/<id>.jpg
-├── ocr_boxes/<id>.json              # already line-level, polygon bbox + confidence
+├── ocr_boxes/<id>.json             
 └── input_sample_groundtruth/<id>.txt
 ```
 
@@ -190,7 +190,7 @@ Each `ocr_boxes/<id>.json` looks like:
 }
 ```
 
-Each polygon is a 4-point quadrilateral in `[TL, TR, BR, BL]` order — the
+Each polygon is a 4-point quadrilateral in `[TL, TR, BR, BL]` order - the
 non-rectangular shape captures the perspective tilt of the photographed page.
 
 Annotations are mostly line-level, but the OCR engine occasionally emits
@@ -249,7 +249,7 @@ prints a notice and exits cleanly.
 
 Rotates every image in a folder by a fixed angle and optionally crops a
 constant margin from each edge. Handy for normalizing scanned datasets where
-all pages were captured rotated.
+all pages were captured rotated as, for example, in SmartDoc 2015.
 
 ```bash
 python datasets_utils/images_rotation.py \
