@@ -1,5 +1,7 @@
 # OCR Datasets — Unified Line-Level Annotations
 
+[English](./README.md) | [Русский](./README_RU.md)
+
 Python project that standardizes OCR datasets with heterogeneous annotation
 formats into a single line-level JSON schema. Each input dataset uses its own
 representation (per-word `.pkl`, per-word `.json`, per-line `.json`); this
